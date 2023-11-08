@@ -1,0 +1,734 @@
+{
+    "azerbaijan": {
+        "descricao_pt": "O Azerbaijão, oficialmente República do Azerbaijão, é um país localizado no Cáucaso, no cruzamento entre a Ásia Ocidental e a Europa Oriental. Sua história é marcada por séculos de influência persa, turca e russa, e conquistou independência da União Soviética em 1991. O país é rico em recursos naturais, especialmente petróleo e gás, que desempenham um papel crucial em sua economia. Atualmente, o Azerbaijão é conhecido por sua modernização e desenvolvimento econômico, bem como pela sua herança cultural e arquitetura única.",
+        "descricao_en": "Azerbaijan, officially the Republic of Azerbaijan, is a country located in the Caucasus, at the crossroads of Western Asia and Eastern Europe. Its history is marked by centuries of Persian, Turkish, and Russian influence, and it gained independence from the Soviet Union in 1991. The country is rich in natural resources, especially oil and gas, which play a crucial role in its economy. Today, Azerbaijan is known for its modernization and economic development, as well as its cultural heritage and unique architecture."
+    },
+    "bahamas": {
+        "descricao_pt": "As Bahamas, oficialmente Comunidade das Bahamas, são um arquipélago situado no oceano Atlântico, composto por numerosas ilhas, ilhotas e ilhotas rochosas. A história das Bahamas é marcada pela presença dos povos indígenas Lucayans, bem como pela colonização espanhola e britânica. Atualmente, o país é um destino turístico popular devido às suas praias deslumbrantes, águas cristalinas e clima tropical. Além do turismo, as Bahamas têm uma economia baseada na pesca e na indústria financeira internacional.",
+        "descricao_en": "The Bahamas, officially the Commonwealth of The Bahamas, is an archipelago situated in the Atlantic Ocean, comprising numerous islands, islets, and rocky outcrops. The history of The Bahamas is marked by the presence of the indigenous Lucayan people, as well as Spanish and British colonization. Today, the country is a popular tourist destination, known for its stunning beaches, crystal-clear waters, and tropical climate. Besides tourism, The Bahamas has an economy based on fishing and the international financial industry."
+    },
+    "bahrain": {
+        "descricao_pt": "O Bahrein, oficialmente o Reino do Bahrein, é uma pequena nação insular no Golfo Pérsico. Sua história remonta a civilizações antigas e foi influenciada por impérios como os persas e os portugueses. Nos tempos modernos, o Bahrein emergiu como um centro financeiro e comercial no Golfo, graças à sua economia diversificada, incluindo o setor de petróleo. Atualmente, o país é conhecido por sua arquitetura moderna, cultura vibrante e como um importante centro financeiro no Oriente Médio.",
+        "descricao_en": "Bahrain, officially the Kingdom of Bahrain, is a small island nation in the Persian Gulf. Its history dates back to ancient civilizations and has been influenced by empires like the Persians and the Portuguese. In modern times, Bahrain has emerged as a financial and commercial hub in the Gulf, thanks to its diversified economy, including the oil sector. Today, the country is known for its modern architecture, vibrant culture, and as a significant financial center in the Middle East."
+    },
+    "bangladesh": {
+        "descricao_pt": "Bangladesh, oficialmente a República Popular de Bangladesh, é um país do sul da Ásia. Sua história é marcada pela luta pela independência do Paquistão em 1971. O país é caracterizado por uma paisagem dominada por rios e planícies e é um dos países mais densamente povoados do mundo. Atualmente, Bangladesh enfrenta desafios relacionados ao desenvolvimento, mas também é conhecido por sua rica cultura, têxteis e indústria de vestuário, bem como pela produção de arroz, que é um alimento básico na região.",
+        "descricao_en": "Bangladesh, officially the People's Republic of Bangladesh, is a country in South Asia. Its history is marked by the struggle for independence from Pakistan in 1971. The country is characterized by a landscape dominated by rivers and plains and is one of the most densely populated countries in the world. Today, Bangladesh faces challenges related to development, but it is also known for its rich culture, textiles and garment industry, as well as rice production, which is a staple in the region."
+    },
+    "barbados": {
+        "descricao_pt": "Barbados, oficialmente o Estado de Barbados, é uma ilha situada no mar do Caribe. Sua história é influenciada pela colonização britânica e pela escravidão. Atualmente, Barbados é um destino turístico popular, conhecido por suas praias de areias brancas e águas cristalinas. Além do turismo, a economia do país depende da produção de açúcar, rum e offshore financeiro. Barbados também tem uma rica herança cultural, incluindo música e festivais vibrantes.",
+        "descricao_en": "Barbados, officially the State of Barbados, is an island located in the Caribbean Sea. Its history is influenced by British colonization and slavery. Today, Barbados is a popular tourist destination, known for its white sandy beaches and crystal-clear waters. Besides tourism, the country's economy relies on sugar production, rum, and offshore finance. Barbados also has a rich cultural heritage, including vibrant music and festivals."
+    },
+    "belarus": {
+        "descricao_pt": "Belarus, oficialmente a República de Belarus, é uma nação localizada na Europa Oriental. Sua história é profundamente influenciada pela União Soviética, da qual fez parte. Atualmente, o país é conhecido por sua economia planificada, liderada pelo governo, e por seu presidente de longa data, Alexander Lukashenko. Belarus tem uma herança cultural rica, com influências russas, polonesas e lituanas. O país é conhecido por sua produção de tratores e maquinaria pesada.",
+        "descricao_en": "Belarus, officially the Republic of Belarus, is a nation located in Eastern Europe. Its history is deeply influenced by the Soviet Union, of which it was a part. Today, the country is known for its planned economy, government-led, and its long-time president, Alexander Lukashenko. Belarus has a rich cultural heritage, with Russian, Polish, and Lithuanian influences. The country is known for its production of tractors and heavy machinery."
+    },
+    "belgium": {
+        "descricao_pt": "A Bélgica, oficialmente o Reino da Bélgica, é um país situado no coração da Europa. Sua história é marcada por séculos de influência estrangeira devido à sua localização geográfica. Atualmente, a Bélgica é conhecida por ser a sede de várias instituições da União Europeia, incluindo o Parlamento Europeu. O país é famoso por sua culinária, incluindo chocolates, cervejas e batatas fritas. Além disso, a Bélgica tem uma rica herança artística e é o lar de várias cidades históricas encantadoras.",
+        "descricao_en": "Belgium, officially the Kingdom of Belgium, is a country located in the heart of Europe. Its history is marked by centuries of foreign influence due to its geographical location. Today, Belgium is known for being the headquarters of several European Union institutions, including the European Parliament. The country is famous for its cuisine, including chocolates, beers, and french fries. Additionally, Belgium has a rich artistic heritage and is home to several charming historic cities."
+    },
+    "belize": {
+        "descricao_pt": "Belize, oficialmente a Comunidade de Belize, é uma nação da América Central, com litoral no mar do Caribe. Sua história é influenciada pela presença de povos maias e pela colonização britânica. Atualmente, Belize é conhecido por sua biodiversidade, incluindo recifes de coral e selvas tropicais. O turismo desempenha um papel significativo na economia do país, com atividades como mergulho e observação de pássaros sendo populares. A nação também é famosa por sua herança multicultural e língua oficial, o inglês.",
+        "descricao_en": "Belize, officially the Belizean Community, is a nation in Central America with a coastline along the Caribbean Sea. Its history is influenced by the presence of Mayan peoples and British colonization. Today, Belize is known for its biodiversity, including coral reefs and tropical jungles. Tourism plays a significant role in the country's economy, with activities like diving and bird-watching being popular. The nation is also famous for its multicultural heritage and official language, English."
+    },
+    "benin": {
+        "descricao_pt": "O Benin, oficialmente a República do Benin, é um país da África Ocidental com uma rica herança cultural. Sua história inclui reinos antigos, como o Reino de Dahomey, e o envolvimento no comércio de escravos. Atualmente, o Benin é conhecido por sua arte e artesanato tradicionais, incluindo máscaras e esculturas. A economia do país é baseada na agricultura e na produção de algodão. Além disso, o Benin é famoso por ser o berço da religião vodu, que desempenha um papel importante na cultura local.",
+        "descricao_en": "Benin, officially the Republic of Benin, is a country in West Africa with a rich cultural heritage. Its history includes ancient kingdoms like the Kingdom of Dahomey and involvement in the slave trade. Today, Benin is known for its traditional art and craftsmanship, including masks and sculptures. The country's economy is based on agriculture and cotton production. Additionally, Benin is famous for being the birthplace of Vodou religion, which plays a significant role in local culture."
+    },
+    "bhutan": {
+        "descricao_pt": "O Butão, oficialmente o Reino do Butão, é um país situado na cordilheira do Himalaia, na Ásia. Sua história é marcada por séculos de isolamento e pela preservação de sua cultura única. Atualmente, o Butão é conhecido por sua ênfase na felicidade nacional bruta, um indicador alternativo de progresso que leva em consideração o bem-estar espiritual e psicológico da população. O país é famoso por suas paisagens deslumbrantes, mosteiros antigos e por ser o último reino budista do Himalaia.",
+        "descricao_en": "Bhutan, officially the Kingdom of Bhutan, is a country situated in the Himalayas in Asia. Its history is marked by centuries of isolation and the preservation of its unique culture. Today, Bhutan is known for its emphasis on Gross National Happiness, an alternative indicator of progress that takes into account the spiritual and psychological well-being of the population. The country is famous for its stunning landscapes, ancient monasteries, and for being the last Buddhist kingdom in the Himalayas."
+    },
+    "brazil": {
+        "descricao_pt": "O Brasil, oficialmente República Federativa do Brasil, é um país latino-americano situado no leste da América do Sul. É o maior país da região e o mais populoso. Colonizado pelos portugueses entre os séculos XV e XIX, o país é extremamente diverso, com influências europeias e africanas devido ao comércio de escravos, além das influências dos povos indígenas. O Brasil é marcado por suas grandes belezas naturais e riqueza cultural, além de seu destaque no futebol, o esporte mais popular do país.",
+        "descricao_en": "Brazil, officially the Federative Republic of Brazil, is a Latin American country located in the eastern part of South America. It is the largest country in the region and the most populous. Colonized by the Portuguese between the 15th and 19th centuries, the country is extremely diverse, with significant European and African influences due to the slave trade, as well as influences from indigenous peoples. Brazil is known for its vast natural beauty, cultural richness, and its outstanding performance in football, the country's most popular sport."
+    },
+    "bolivia": {
+        "descricao_pt": "A Bolívia é um país localizado no coração da América do Sul. Sua história é marcada pela civilização inca e pela colonização espanhola. A Bolívia é conhecida por sua diversidade geográfica, incluindo as montanhas dos Andes e a Amazônia. Atualmente, o país enfrenta desafios econômicos e políticos, mas sua cultura e tradições indígenas continuam a desempenhar um papel importante na sociedade boliviana.",
+        "descricao_en": "Bolivia is a country located in the heart of South America. Its history is marked by the Inca civilization and Spanish colonization. Bolivia is known for its geographic diversity, including the Andes Mountains and the Amazon rainforest. Currently, the country faces economic and political challenges, but its indigenous culture and traditions continue to play a significant role in Bolivian society."
+    },
+    "bosnia and herzegovina": {
+        "descricao_pt": "Bósnia e Herzegovina é um país dos Bálcãs, na Europa, com uma história complexa. Foi parte do Império Otomano e do Império Austro-Húngaro. Após a Guerra da Bósnia na década de 1990, o país se tornou independente. É conhecido por sua diversidade étnica e religiosa. Atualmente, a Bósnia e Herzegovina está em busca de estabilidade política e econômica.",
+        "descricao_en": "Bosnia and Herzegovina is a country in the Balkans, in Europe, with a complex history. It was part of the Ottoman Empire and the Austro-Hungarian Empire. After the Bosnian War in the 1990s, the country became independent. It is known for its ethnic and religious diversity. Currently, Bosnia and Herzegovina is striving for political and economic stability."
+    },
+    "botswana": {
+        "descricao_pt": "Botswana, um país no sul da África, é conhecido por sua estabilidade política e crescimento econômico. Sua história inclui períodos de domínio britânico e a independência em 1966. A nação é dominada pelo deserto do Kalahari, mas também possui áreas de rica vida selvagem. Hoje, Botswana é um dos países mais prósperos da África, com um governo democrático sólido.",
+        "descricao_en": "Botswana, a country in southern Africa, is known for its political stability and economic growth. Its history includes periods of British rule and independence in 1966. The nation is dominated by the Kalahari Desert but also boasts areas of rich wildlife. Today, Botswana is one of the most prosperous countries in Africa, with a solid democratic government."
+    },
+    "brunei": {
+        "descricao_pt": "Brunei, localizado na ilha de Bornéu, é um pequeno país rico em petróleo. Sua história envolve o comércio com potências coloniais e a influência islâmica. Brunei é uma monarquia absoluta governada por um sultão. Atualmente, o país desfruta de prosperidade econômica devido às suas reservas de petróleo, oferecendo um alto padrão de vida para seus cidadãos.",
+        "descricao_en": "Brunei, located on the island of Borneo, is a small, oil-rich country. Its history involves trade with colonial powers and Islamic influence. Brunei is an absolute monarchy ruled by a sultan. Currently, the country enjoys economic prosperity due to its oil reserves, providing a high standard of living for its citizens."
+    },
+    "bulgaria": {
+        "descricao_pt": "Bulgária, no sudeste da Europa, possui uma rica herança histórica que remonta aos trácios e ao Império Romano. Depois do domínio otomano, o país conquistou independência no século XIX. Hoje, é membro da União Europeia e da OTAN. A Bulgária enfrenta desafios econômicos, mas seu patrimônio cultural e sua beleza natural atraem visitantes de todo o mundo.",
+        "descricao_en": "Bulgaria, in southeastern Europe, has a rich historical heritage dating back to the Thracians and the Roman Empire. After Ottoman rule, the country gained independence in the 19th century. Today, it is a member of the European Union and NATO. Bulgaria faces economic challenges, but its cultural heritage and natural beauty attract visitors from around the world."
+    },
+    "burkina faso": {
+        "descricao_pt": "Burkina Faso, na África Ocidental, é um país sem litoral com uma história que inclui impérios antigos e o domínio colonial francês. O país obteve independência em 1960 e passou por mudanças políticas ao longo dos anos. Atualmente, Burkina Faso enfrenta desafios econômicos e de segurança, mas sua cultura vibrante e hospitalidade são pontos fortes.",
+        "descricao_en": "Burkina Faso, in West Africa, is a landlocked country with a history that includes ancient empires and French colonial rule. The country gained independence in 1960 and has undergone political changes over the years. Currently, Burkina Faso faces economic and security challenges, but its vibrant culture and hospitality are strengths."
+    },
+    "burundi": {
+        "descricao_pt": "Burundi, localizado na região dos Grandes Lagos da África, é um país com uma história marcada por tensões étnicas. Após a independência da Bélgica, o país enfrentou conflitos. Atualmente, Burundi está trabalhando para a reconciliação e a estabilidade política. Sua população é diversa, e o país é conhecido por suas belas paisagens naturais.",
+        "descricao_en": "Burundi, located in the Great Lakes region of Africa, is a country with a history marked by ethnic tensions. After gaining independence from Belgium, the country faced conflicts. Currently, Burundi is working towards reconciliation and political stability. Its population is diverse, and the country is known for its beautiful natural landscapes."
+    },
+    "cambodia": {
+        "descricao_pt": "Camboja, no sudeste asiático, possui uma história rica, incluindo o Império Khmer e o domínio francês. Após anos de conflito e genocídio, o país busca estabilidade e desenvolvimento. A cultura cambojana é influenciada pelo budismo, e os templos de Angkor Wat são um marco famoso. Atualmente, o turismo desempenha um papel importante na economia do Camboja.",
+        "descricao_en": "Cambodia, in Southeast Asia, has a rich history, including the Khmer Empire and French colonial rule. After years of conflict and genocide, the country is seeking stability and development. Cambodian culture is influenced by Buddhism, and the temples of Angkor Wat are a famous landmark. Currently, tourism plays a significant role in Cambodia's economy."
+    },
+    "cameroon": {
+        "descricao_pt": "Camarões, na África Central, possui uma diversidade étnica e geográfica impressionante. Sua história inclui impérios pré-coloniais e domínio francês e britânico. O país obteve independência na década de 1960. Atualmente, Camarões enfrenta desafios políticos e econômicos, mas sua rica cultura e biodiversidade são pontos fortes.",
+        "descricao_en": "Cameroon, in Central Africa, has impressive ethnic and geographical diversity. Its history includes pre-colonial empires and French and British rule. The country gained independence in the 1960s. Currently, Cameroon faces political and economic challenges, but its rich culture and biodiversity are strengths."
+    },
+    "canada": {
+        "descricao_pt": "O Canadá, um país localizado na América do Norte, é conhecido por sua vasta extensão territorial e beleza natural deslumbrante. A história do Canadá é marcada por sua colonização europeia, com influências francesas e britânicas. Atualmente, o país é uma nação multicultural, com uma população diversificada e um sistema de saúde e educação de alta qualidade.",
+        "descricao_en": "Canada, a country located in North America, is known for its vast landmass and stunning natural beauty. The history of Canada is marked by European colonization, with French and British influences. Today, the country is a multicultural nation with a diverse population and a high-quality healthcare and education system."
+    },
+    "cape verde": {
+        "descricao_pt": "Cabo Verde, localizado no oceano Atlântico, é um arquipélago formado por ilhas vulcânicas. A história do país está ligada à colonização portuguesa e ao comércio de escravos. Atualmente, Cabo Verde é uma nação independente, conhecida por sua música, cultura e belas praias.",
+        "descricao_en": "Cape Verde, located in the Atlantic Ocean, is an archipelago of volcanic islands. The country's history is tied to Portuguese colonization and the slave trade. Today, Cape Verde is an independent nation known for its music, culture, and beautiful beaches."
+    },
+    "central african republic": {
+        "descricao_pt": "A República Centro-Africana, situada no coração da África, tem uma história complexa de conflitos e instabilidade política. Apesar dos desafios, o país é rico em recursos naturais, incluindo vida selvagem e paisagens deslumbrantes. Na atualidade, a República Centro-Africana busca estabilidade e desenvolvimento.",
+        "descricao_en": "The Central African Republic, located in the heart of Africa, has a complex history of conflicts and political instability. Despite the challenges, the country is rich in natural resources, including wildlife and stunning landscapes. Today, the Central African Republic seeks stability and development."
+    },
+    "chad": {
+        "descricao_pt": "Chade, um país da África Central, possui uma história marcada por culturas diversas e civilizações antigas. Atualmente, o país enfrenta desafios socioeconômicos, mas é abençoado com paisagens variadas e uma população resiliente.",
+        "descricao_en": "Chad, a country in Central Africa, has a history marked by diverse cultures and ancient civilizations. Today, the country faces socio-economic challenges but is blessed with diverse landscapes and a resilient population."
+    },
+    "chile": {
+        "descricao_pt": "O Chile, uma nação alongada na costa oeste da América do Sul, possui uma história rica, incluindo o legado dos povos indígenas e influências coloniais espanholas. No presente, o Chile é conhecido por sua estabilidade política e economia em crescimento, além de suas paisagens espetaculares, como os Andes e o deserto do Atacama.",
+        "descricao_en": "Chile, a long-nation on the west coast of South America, has a rich history, including the legacy of indigenous peoples and Spanish colonial influences. Today, Chile is known for its political stability and growing economy, as well as its spectacular landscapes, such as the Andes and the Atacama Desert."
+    },
+    "china": {
+        "descricao_pt": "A China, um país no leste da Ásia, tem uma história milenar e é uma das civilizações mais antigas do mundo. Atualmente, a China é uma potência global, com uma economia em crescimento, cultura rica e uma população numerosa.",
+        "descricao_en": "China, a country in East Asia, has a millennia-old history and is one of the world's oldest civilizations. Today, China is a global powerhouse, with a growing economy, rich culture, and a large population."
+    },
+    "colombia": {
+        "descricao_pt": "A Colômbia, localizada na América do Sul, tem uma história complexa de culturas indígenas, colonização espanhola e conflitos internos. Na atualidade, a Colômbia está em processo de superar décadas de conflitos e violência, buscando paz e desenvolvimento.",
+        "descricao_en": "Colombia, located in South America, has a complex history of indigenous cultures, Spanish colonization, and internal conflicts. Today, Colombia is in the process of overcoming decades of conflict and violence, seeking peace and development."
+    },
+    "comoros": {
+        "descricao_pt": "As Comores, um pequeno arquipélago no Oceano Índico, têm uma história influenciada por várias culturas. Atualmente, o país enfrenta desafios econômicos, mas é conhecido por suas praias paradisíacas e cultura única.",
+        "descricao_en": "Comoros, a small archipelago in the Indian Ocean, has a history influenced by various cultures. Today, the country faces economic challenges but is known for its paradise beaches and unique culture."
+    },
+    "democratic republic of congo": {
+        "descricao_pt": "A República Democrática do Congo, na África Central, possui uma história complexa de colonização, independência e conflitos. O país é rico em recursos naturais, mas também enfrentou instabilidade política. Atualmente, a RD Congo busca estabilidade e desenvolvimento.",
+        "descricao_en": "The Democratic Republic of Congo, in Central Africa, has a complex history of colonization, independence, and conflicts. The country is rich in natural resources but has also faced political instability. Today, the DRC seeks stability and development."
+    },
+    "congo": {
+        "descricao_pt": "A República do Congo, localizada na África Central, tem uma rica história marcada por impérios antigos e colonização europeia. Com uma localização estratégica ao longo do rio Congo, o país desempenhou um papel importante no comércio de escravos. Hoje, o Congo é conhecido por sua diversidade étnica e cultural, bem como por sua exuberante vida selvagem nas florestas tropicais.",
+        "descricao_en": "The Republic of the Congo, located in Central Africa, has a rich history marked by ancient empires and European colonization. With a strategic location along the Congo River, the country played a significant role in the slave trade. Today, Congo is known for its ethnic and cultural diversity, as well as its lush wildlife in the tropical rainforests."
+    },
+    "costa_rica": {
+        "descricao_pt": "A Costa Rica, na América Central, tem uma história de paz e estabilidade política. Sua geografia é impressionante, com praias deslumbrantes, vulcões ativos e selvas exuberantes. Atualmente, é reconhecida por seu compromisso com a conservação ambiental, com parques nacionais e uma ampla variedade de biodiversidade.",
+        "descricao_en": "Costa Rica, in Central America, has a history of peace and political stability. Its geography is stunning, with gorgeous beaches, active volcanoes, and lush jungles. Today, it is renowned for its commitment to environmental conservation, with national parks and a wide variety of biodiversity."
+    },
+    "croatia": {
+        "descricao_pt": "A Croácia, situada no sudeste da Europa, tem uma história marcada por impérios e guerras. Com sua costa no Mar Adriático e inúmeras ilhas, é famosa por suas belezas naturais e patrimônio histórico, incluindo a cidade murada de Dubrovnik. Atualmente, a Croácia é um destino turístico popular e membro da União Europeia.",
+        "descricao_en": "Croatia, located in Southeast Europe, has a history marked by empires and wars. With its coastline along the Adriatic Sea and numerous islands, it is famous for its natural beauty and historical heritage, including the walled city of Dubrovnik. Today, Croatia is a popular tourist destination and a member of the European Union."
+    },
+    "cuba": {
+        "descricao_pt": "Cuba, uma ilha no Caribe, tem uma história complexa que inclui colonização espanhola, revolução e socialismo. Sua localização estratégica a tornou um ponto de interesse para várias nações. Atualmente, Cuba é conhecida por sua cultura vibrante, música, dança e sistema de saúde universal.",
+        "descricao_en": "Cuba, an island in the Caribbean, has a complex history that includes Spanish colonization, revolution, and socialism. Its strategic location made it a point of interest for various nations. Today, Cuba is known for its vibrant culture, music, dance, and universal healthcare system."
+    },
+    "cyprus": {
+        "descricao_pt": "Chipre, no leste do Mediterrâneo, tem uma história rica e complexa devido à sua localização estratégica. Com divisões étnicas e conflitos, o país permanece dividido, mas a parte sul é conhecida por suas belas praias e história antiga. Atualmente, Chipre é um destino turístico popular.",
+        "descricao_en": "Cyprus, in the eastern Mediterranean, has a rich and complex history due to its strategic location. With ethnic divisions and conflicts, the country remains divided, but the southern part is known for its beautiful beaches and ancient history. Today, Cyprus is a popular tourist destination."
+    },
+    "czechia": {
+        "descricao_pt": "A República Tcheca, localizada na Europa Central, possui uma história marcada por reinos e impérios. Praga, sua capital, é famosa por sua arquitetura medieval e cervejas. Atualmente, a República Tcheca é uma nação moderna, membro da União Europeia e conhecida por sua rica herança cultural.",
+        "descricao_en": "Czechia, located in Central Europe, has a history marked by kingdoms and empires. Prague, its capital, is famous for its medieval architecture and beers. Today, Czechia is a modern nation, a member of the European Union, and known for its rich cultural heritage."
+    },
+    "denmark": {
+        "descricao_pt": "A Dinamarca, no norte da Europa, tem uma história que remonta a reinos vikings. É um país com uma elevada qualidade de vida e um sistema de bem-estar social abrangente. Atualmente, a Dinamarca é conhecida por sua gastronomia, design e liderança em questões de sustentabilidade.",
+        "descricao_en": "Denmark, in northern Europe, has a history dating back to Viking kingdoms. It is a country with a high quality of life and a comprehensive social welfare system. Today, Denmark is known for its cuisine, design, and leadership in sustainability issues."
+    },
+    "djibouti": {
+        "descricao_pt": "Djibouti, na região do Chifre da África, tem uma história ligada a antigas rotas comerciais. Sua localização estratégica no Mar Vermelho torna-o importante para o comércio internacional. Atualmente, Djibouti é um centro logístico crucial e um ponto de entrada para o Corno de África.",
+        "descricao_en": "Djibouti, in the Horn of Africa region, has a history tied to ancient trade routes. Its strategic location on the Red Sea makes it important for international trade. Today, Djibouti is a crucial logistical hub and an entry point to the Horn of Africa."
+    },
+    "dominica": {
+        "descricao_pt": "Dominica, no Caribe, é conhecida por sua natureza intocada, incluindo florestas tropicais e vulcões. Sua história inclui colonização europeia e influências africanas. Atualmente, a ilha é um destino popular para ecoturismo e tem uma cultura rica e diversificada.",
+        "descricao_en": "Dominica, in the Caribbean, is known for its pristine nature, including rainforests and volcanoes. Its history includes European colonization and African influences. Today, the island is a popular destination for ecotourism and has a rich and diverse culture."
+    },
+    "dominican_republic": {
+        "descricao_pt": "A República Dominicana, também no Caribe, compartilha a ilha de Hispaniola com o Haiti. Sua história inclui a colonização espanhola e lutas pela independência. Atualmente, o país é famoso por suas praias deslumbrantes, resorts e cultura vibrante, incluindo a dança merengue.",
+        "descricao_en": "The Dominican Republic, also in the Caribbean, shares the island of Hispaniola with Haiti. Its history includes Spanish colonization and struggles for independence. Today, the country is famous for its stunning beaches, resorts, and vibrant culture, including the merengue dance."
+    },
+    "ecuador": {
+        "descricao_pt": "O Equador, oficialmente República do Equador, é um país situado na América do Sul. Sua história é marcada por civilizações antigas, como os Incas, antes da chegada dos espanhóis no século XVI. Atualmente, o Equador é conhecido por sua incrível diversidade geográfica, que inclui as montanhas dos Andes, a floresta amazônica e as belas praias do litoral. Além disso, o país é famoso por sua biodiversidade única, abrigando uma grande variedade de espécies de plantas e animais.",
+        "descricao_en": "Ecuador, officially the Republic of Ecuador, is a country located in South America. Its history is marked by ancient civilizations, such as the Incas, before the arrival of the Spanish in the 16th century. Today, Ecuador is known for its incredible geographical diversity, including the Andes Mountains, the Amazon rainforest, and the beautiful coastal beaches. Moreover, the country is famous for its unique biodiversity, hosting a wide variety of plant and animal species."
+    },
+    "egypt": {
+        "descricao_pt": "O Egito, oficialmente República Árabe do Egito, é um país do norte da África conhecido por sua rica história e legado cultural. O Egito é o berço de uma das civilizações mais antigas do mundo, com uma história que remonta a milênios. Atualmente, o país é famoso por suas antigas pirâmides, como as pirâmides de Gizé, bem como pelo rio Nilo, que desempenhou um papel vital na civilização egípcia. O Egito é uma nação vibrante com uma mistura de tradição e modernidade.",
+        "descricao_en": "Egypt, officially the Arab Republic of Egypt, is a country in North Africa known for its rich history and cultural heritage. Egypt is the birthplace of one of the world's oldest civilizations, with a history that spans millennia. Today, the country is famous for its ancient pyramids, such as the Pyramids of Giza, as well as the Nile River, which played a vital role in Egyptian civilization. Egypt is a vibrant nation with a blend of tradition and modernity."
+    },
+    "el salvador": {
+        "descricao_pt": "El Salvador, oficialmente República de El Salvador, é um país da América Central. Sua história inclui períodos de domínio indígena, colonização espanhola e, posteriormente, independência. Atualmente, El Salvador enfrenta desafios econômicos e sociais, mas também é conhecido por sua cultura, música e culinária únicas. As praias de El Salvador atraem turistas devido ao seu surfe de classe mundial.",
+        "descricao_en": "El Salvador, officially the Republic of El Salvador, is a country in Central America. Its history includes periods of indigenous rule, Spanish colonization, and subsequent independence. Today, El Salvador faces economic and social challenges, but it is also known for its unique culture, music, and cuisine. El Salvador's beaches attract tourists due to their world-class surfing."
+    },
+    "equatorial guinea": {
+        "descricao_pt": "Guiné Equatorial, oficialmente República da Guiné Equatorial, é um país da África Central localizado na costa oeste da África. Sua história inclui o domínio colonial por diferentes potências europeias, incluindo Espanha e França. Atualmente, a Guiné Equatorial é rica em recursos naturais, como petróleo, mas enfrenta desafios relacionados à governança e aos direitos humanos. O país é conhecido por sua diversidade cultural e suas belas praias tropicais.",
+        "descricao_en": "Equatorial Guinea, officially the Republic of Equatorial Guinea, is a country in Central Africa located on the west coast of Africa. Its history includes colonial rule by different European powers, including Spain and France. Today, Equatorial Guinea is rich in natural resources, such as oil, but faces challenges related to governance and human rights. The country is known for its cultural diversity and beautiful tropical beaches."
+    },
+    "eritrea": {
+        "descricao_pt": "Eritreia, oficialmente o Estado da Eritreia, é um país no Chifre da África, na costa leste da África. Sua história inclui períodos de domínio estrangeiro, incluindo o domínio italiano e a colonização britânica. Atualmente, a Eritreia é uma nação independente, mas enfrenta desafios políticos e econômicos. O país é conhecido por sua paisagem montanhosa, cultura diversificada e rica história.",
+        "descricao_en": "Eritrea, officially the State of Eritrea, is a country in the Horn of Africa, on the east coast of Africa. Its history includes periods of foreign rule, including Italian rule and British colonization. Today, Eritrea is an independent nation but faces political and economic challenges. The country is known for its mountainous landscape, diverse culture, and rich history."
+    },
+    "estonia": {
+        "descricao_pt": "Estônia, oficialmente República da Estônia, é um país no norte da Europa, às margens do Mar Báltico. Sua história inclui séculos de influências de várias potências, incluindo a Suécia, a Rússia e a Alemanha. Atualmente, a Estônia é uma nação moderna e desenvolvida, conhecida por sua alta tecnologia e conexão à internet em todo o país. O país também preserva sua cultura e tradições únicas.",
+        "descricao_en": "Estonia, officially the Republic of Estonia, is a country in northern Europe, on the shores of the Baltic Sea. Its history includes centuries of influence from various powers, including Sweden, Russia, and Germany. Today, Estonia is a modern and developed nation known for its high technology and nationwide internet connectivity. The country also preserves its unique culture and traditions."
+    },
+    "eswatini": {
+        "descricao_pt": "Essuatíni, anteriormente conhecido como Suazilândia, é um pequeno país no sul da África, cercado pela África do Sul e Moçambique. Sua história inclui tradições culturais ricas e a liderança de uma monarquia tradicional. Atualmente, o Essuatíni é conhecido por sua beleza natural, com paisagens deslumbrantes e vida selvagem diversificada. O país é famoso por suas danças tradicionais e festivais culturais.",
+        "descricao_en": "Eswatini, formerly known as Swaziland, is a small country in southern Africa, surrounded by South Africa and Mozambique. Its history includes rich cultural traditions and the leadership of a traditional monarchy. Today, Eswatini is known for its natural beauty, with stunning landscapes and diverse wildlife. The country is famous for its traditional dances and cultural festivals."
+    },
+    "ethiopia": {
+        "descricao_pt": "Etiópia, oficialmente a República Democrática Federal da Etiópia, é um país no Chifre da África. Sua história é antiga, com raízes que remontam a civilizações antigas, como os axumitas. Atualmente, a Etiópia é conhecida por sua diversidade étnica, culturas diversas e belas paisagens, incluindo as montanhas Simien e o Vale do Rift. O país também é famoso por sua herança religiosa e história.",
+        "descricao_en": "Ethiopia, officially the Federal Democratic Republic of Ethiopia, is a country in the Horn of Africa. Its history is ancient, with roots dating back to ancient civilizations like the Axumites. Today, Ethiopia is known for its ethnic diversity, diverse cultures, and beautiful landscapes, including the Simien Mountains and the Great Rift Valley. The country is also famous for its religious heritage and history."
+    },
+    "fiji": {
+        "descricao_pt": "Fiji é um país insular na Oceania, composto por um arquipélago de ilhas no Pacífico Sul. Sua história inclui o contato com exploradores europeus e o domínio britânico. Atualmente, Fiji é um destino turístico popular, conhecido por suas praias de areia branca, recifes de coral deslumbrantes e cultura calorosa. O país é famoso por sua tradição de receber visitantes com um espírito amigável e acolhedor.",
+        "descricao_en": "Fiji is an island country in Oceania, composed of an archipelago of islands in the South Pacific. Its history includes contact with European explorers and British rule. Today, Fiji is a popular tourist destination, known for its white sandy beaches, stunning coral reefs, and warm culture. The country is famous for its tradition of welcoming visitors with a friendly and hospitable spirit."
+    },
+    "finland": {
+        "descricao_pt": "Finlândia, oficialmente República da Finlândia, é um país no norte da Europa, conhecido por sua natureza intocada e qualidade de vida elevada. Sua história inclui períodos de domínio por outros países, como a Suécia e a Rússia. Atualmente, a Finlândia é um país inovador, líder em tecnologia e educação. Além disso, é famosa por suas paisagens naturais deslumbrantes, como lagos e florestas.",
+        "descricao_en": "Finland, officially the Republic of Finland, is a country in northern Europe known for its pristine nature and high quality of life. Its history includes periods of rule by other countries, such as Sweden and Russia. Today, Finland is an innovative country, a leader in technology and education. Additionally, it is famous for its stunning natural landscapes, including lakes and forests."
+    },
+    "france": {
+        "descricao_pt": "A França, oficialmente República Francesa, é um país europeu localizado na Europa Ocidental. Sua história é rica e marcada por eventos significativos, como a Revolução Francesa, que teve um impacto duradouro na política e nos direitos humanos. A França é conhecida por sua cultura, gastronomia e moda de classe mundial. O país é famoso por sua Torre Eiffel, vinho, queijo e museus renomados, como o Louvre.",
+        "descricao_en": "France, officially the French Republic, is a European country located in Western Europe. Its history is rich and marked by significant events, such as the French Revolution, which had a lasting impact on politics and human rights. France is known for its world-class culture, cuisine, and fashion. The country is famous for its Eiffel Tower, wine, cheese, and renowned museums like the Louvre."
+    },
+    "gabon": {
+        "descricao_pt": "O Gabão, oficialmente República Gabonesa, é um país da África Central. Sua história inclui períodos de colonização francesa e independência. O país é caracterizado por sua rica biodiversidade e paisagens naturais deslumbrantes, como florestas tropicais e parques nacionais. Hoje, o Gabão é conhecido por sua estabilidade política e esforços de conservação da natureza.",
+        "descricao_en": "Gabon, officially the Gabonese Republic, is a country in Central Africa. Its history includes periods of French colonization and independence. The country is characterized by its rich biodiversity and stunning natural landscapes, such as tropical forests and national parks. Today, Gabon is known for its political stability and nature conservation efforts."
+    },
+    "gambia": {
+        "descricao_pt": "A Gâmbia, oficialmente República da Gâmbia, é um pequeno país costeiro na África Ocidental. Sua história inclui períodos de colonização britânica e independência. O país é atravessado pelo rio Gâmbia e é conhecido por sua diversidade étnica e cultural. Na atualidade, a Gâmbia é um destino turístico popular devido às suas belas praias e vida selvagem.",
+        "descricao_en": "Gambia, officially the Republic of The Gambia, is a small coastal country in West Africa. Its history includes periods of British colonization and independence. The country is crossed by the Gambia River and is known for its ethnic and cultural diversity. Today, The Gambia is a popular tourist destination due to its beautiful beaches and wildlife."
+    },
+    "georgia": {
+        "descricao_pt": "A Geórgia, oficialmente República da Geórgia, é um país localizado no cruzamento da Europa Oriental e da Ásia Ocidental. Sua história remonta a antigas civilizações e impérios. A Geórgia é famosa por sua cultura, vinho e paisagens montanhosas espetaculares. Hoje, o país enfrenta desafios geopolíticos, mas mantém sua identidade única.",
+        "descricao_en": "Georgia, officially the Republic of Georgia, is a country located at the crossroads of Eastern Europe and Western Asia. Its history dates back to ancient civilizations and empires. Georgia is famous for its culture, wine, and spectacular mountainous landscapes. Today, the country faces geopolitical challenges but maintains its unique identity."
+    },
+    "germany": {
+        "descricao_pt": "A Alemanha, oficialmente República Federal da Alemanha, é uma nação europeia central com uma história que abrange desde o Sacro Império Romano até o período pós-Segunda Guerra Mundial. É conhecida por sua eficiência, indústria automobilística de renome e contribuições significativas para a filosofia e música. A Alemanha é uma potência econômica global e líder na União Europeia.",
+        "descricao_en": "Germany, officially the Federal Republic of Germany, is a central European nation with a history spanning from the Holy Roman Empire to the post-World War II era. It is known for its efficiency, renowned automotive industry, and significant contributions to philosophy and music. Germany is a global economic powerhouse and a leader in the European Union."
+    },
+    "ghana": {
+        "descricao_pt": "Gana, oficialmente República de Gana, é um país na África Ocidental. Sua história inclui reinos e impérios antigos, como o Império Axante. Gana é conhecida por sua cultura vibrante, música e dança. Hoje, o país é uma democracia estável e um dos principais produtores de ouro do mundo.",
+        "descricao_en": "Ghana, officially the Republic of Ghana, is a country in West Africa. Its history includes ancient kingdoms and empires, such as the Ashanti Empire. Ghana is known for its vibrant culture, music, and dance. Today, the country is a stable democracy and one of the world's leading gold producers."
+    },
+    "greece": {
+        "descricao_pt": "A Grécia, oficialmente República Helênica, é um país no sudeste da Europa com uma história rica que remonta à antiguidade clássica. É o berço da democracia, filosofia e dos Jogos Olímpicos. A Grécia é famosa por sua arquitetura antiga, como o Partenon, e suas ilhas deslumbrantes no Mar Egeu. Hoje, é um destino turístico popular.",
+        "descricao_en": "Greece, officially the Hellenic Republic, is a country in southeastern Europe with a rich history dating back to classical antiquity. It is the birthplace of democracy, philosophy, and the Olympic Games. Greece is famous for its ancient architecture, such as the Parthenon, and its stunning islands in the Aegean Sea. Today, it is a popular tourist destination."
+    },
+    "grenada": {
+        "descricao_pt": "Granada, oficialmente Estado de Granada, é uma ilha no Caribe. Sua história inclui períodos de colonização por europeus e independência. Granada é conhecida por suas praias de areia branca, paisagens vulcânicas e produção de nozes-moscada. Atualmente, é uma nação democrática e um destino turístico popular.",
+        "descricao_en": "Grenada, officially the State of Grenada, is an island in the Caribbean. Its history includes periods of European colonization and independence. Grenada is known for its white sandy beaches, volcanic landscapes, and nutmeg production. Today, it is a democratic nation and a popular tourist destination."
+    },
+    "guatemala": {
+        "descricao_pt": "A Guatemala, oficialmente República da Guatemala, é um país na América Central. Sua história inclui civilizações maias antigas e períodos de domínio colonial espanhol. A Guatemala é famosa por sua herança cultural, incluindo artesanato, música e culinária. Atualmente, o país enfrenta desafios econômicos e sociais, mas mantém sua rica cultura.",
+        "descricao_en": "Guatemala, officially the Republic of Guatemala, is a country in Central America. Its history includes ancient Mayan civilizations and periods of Spanish colonial rule. Guatemala is famous for its cultural heritage, including crafts, music, and cuisine. Today, the country faces economic and social challenges but maintains its rich culture."
+    },
+    "guinea-bissau": {
+        "descricao_pt": "Guiné-Bissau, oficialmente República da Guiné-Bissau, é um país na África Ocidental. Sua história envolve períodos de colonização portuguesa e independência. O país é conhecido por sua diversidade étnica e culturas tradicionais. Atualmente, Guiné-Bissau enfrenta desafios políticos e econômicos, mas mantém sua identidade única.",
+        "descricao_en": "Guinea-Bissau, officially the Republic of Guinea-Bissau, is a country in West Africa. Its history involves periods of Portuguese colonization and independence. The country is known for its ethnic diversity and traditional cultures. Today, Guinea-Bissau faces political and economic challenges but maintains its unique identity."
+    },
+    "guinea": {
+        "descricao_pt": "Guiné é um país situado na costa oeste da África. Durante os séculos XV a XVIII, a região foi palco de comércio de escravos e conflitos entre impérios europeus. Hoje, a Guiné é uma nação independente com uma rica herança cultural africana e uma economia em crescimento.",
+        "descricao_en": "Guinea is a country located on the west coast of Africa. During the 15th to 18th centuries, the region witnessed the slave trade and conflicts between European empires. Today, Guinea is an independent nation with a rich African cultural heritage and a growing economy."
+    },
+    "guyana": {
+        "descricao_pt": "Guiana é um país na América do Sul, conhecido por sua diversidade étnica e cultural. Colonizada por britânicos, holandeses e franceses, Guiana é agora uma república independente. Possui uma geografia diversificada e é famosa por suas florestas tropicais e rios.",
+        "descricao_en": "Guyana is a country in South America, known for its ethnic and cultural diversity. Colonized by the British, Dutch, and French, Guyana is now an independent republic. It has a diverse geography and is famous for its rainforests and rivers."
+    },
+    "haiti": {
+        "descricao_pt": "Haiti é uma nação caribenha na ilha de Hispaniola. Sua história é marcada por lutas pela independência e desafios econômicos. Hoje, o Haiti enfrenta desafios sociais e políticos, mas também é rico em cultura e tradições únicas.",
+        "descricao_en": "Haiti is a Caribbean nation on the island of Hispaniola. Its history is marked by struggles for independence and economic challenges. Today, Haiti faces social and political challenges, but is also rich in culture and unique traditions."
+    },
+    "honduras": {
+        "descricao_pt": "Honduras é uma nação da América Central. Sua história inclui civilizações antigas e o período colonial espanhol. Atualmente, Honduras enfrenta desafios econômicos e sociais, mas é conhecida por sua beleza natural e patrimônio cultural.",
+        "descricao_en": "Honduras is a Central American nation. Its history includes ancient civilizations and the Spanish colonial period. Currently, Honduras faces economic and social challenges, but is known for its natural beauty and cultural heritage."
+    },
+    "hungary": {
+        "descricao_pt": "Hungria é uma nação da Europa Central com uma rica história. Foi parte do Império Austro-Húngaro e enfrentou desafios durante guerras e regimes políticos. Hoje, a Hungria é uma democracia e um importante centro cultural europeu.",
+        "descricao_en": "Hungary is a Central European nation with a rich history. It was part of the Austro-Hungarian Empire and faced challenges during wars and political regimes. Today, Hungary is a democracy and a significant European cultural center."
+    },
+    "iceland": {
+        "descricao_pt": "Islândia é uma ilha no norte do Atlântico. Sua história inclui colonização nórdica e uma sociedade democrática. A Islândia é conhecida por suas paisagens naturais deslumbrantes e seu estilo de vida moderno e progressista.",
+        "descricao_en": "Iceland is an island in the North Atlantic. Its history includes Norse colonization and a democratic society. Iceland is known for its stunning natural landscapes and its modern and progressive way of life."
+    },
+    "india": {
+        "descricao_pt": "Índia é uma nação no sul da Ásia com uma história milenar. Foi lar de grandes impérios e desempenhou um papel importante no comércio global. Hoje, a Índia é uma democracia e uma potência econômica em crescimento.",
+        "descricao_en": "India is a nation in South Asia with a millennia-old history. It was home to great empires and played a significant role in global trade. Today, India is a democracy and a growing economic powerhouse."
+    },
+    "indonesia": {
+        "descricao_pt": "Indonésia é um arquipélago no sudeste da Ásia. Sua história inclui reinos marítimos e colonização. Atualmente, a Indonésia é a maior nação muçulmana do mundo e uma democracia em desenvolvimento.",
+        "descricao_en": "Indonesia is an archipelago in Southeast Asia. Its history includes maritime kingdoms and colonization. Currently, Indonesia is the world's largest Muslim nation and a developing democracy."
+    },
+    "iran": {
+        "descricao_pt": "Irã é uma nação do Oriente Médio com uma rica herança cultural e histórica. Foi o centro de impérios antigos e desempenha um papel importante na geopolítica moderna. Hoje, o Irã é uma república islâmica com desafios e realizações.",
+        "descricao_en": "Iran is a Middle Eastern nation with a rich cultural and historical heritage. It was the center of ancient empires and plays a significant role in modern geopolitics. Today, Iran is an Islamic republic with challenges and achievements."
+    },
+    "iraq": {
+        "descricao_pt": "Iraque é uma nação no Oriente Médio com uma história antiga. Foi lar de civilizações antigas e enfrentou conflitos recentes. Atualmente, o Iraque busca reconstrução e estabilidade após anos de turbulência.",
+        "descricao_en": "Iraq is a nation in the Middle East with an ancient history. It was home to ancient civilizations and has faced recent conflicts. Currently, Iraq seeks reconstruction and stability after years of turmoil."
+    },
+    "ireland": {
+        "descricao_pt": "Irlanda é uma ilha na Europa Ocidental com uma cultura rica e uma história de lutas por independência. Hoje, a Irlanda é uma nação próspera e democrática, conhecida por sua música, literatura e paisagens deslumbrantes.",
+        "descricao_en": "Ireland is an island in Western Europe with a rich culture and a history of struggles for independence. Today, Ireland is a prosperous and democratic nation, known for its music, literature, and stunning landscapes."
+    },
+    "italy": {
+        "descricao_pt": "Itália é uma nação no sul da Europa, famosa por sua história antiga e cultura. Foi o centro do Império Romano e é conhecida por sua arte, culinária e moda. Hoje, a Itália é uma democracia e um destino turístico popular.",
+        "descricao_en": "Italy is a nation in Southern Europe, famous for its ancient history and culture. It was the center of the Roman Empire and is known for its art, cuisine, and fashion. Today, Italy is a democracy and a popular tourist destination."
+    },
+    "ivory coast": {
+        "descricao_pt": "Costa do Marfim é um país na África Ocidental com uma história de comércio e colonização. Atualmente, a Costa do Marfim é uma nação em crescimento, com uma economia diversificada e uma população diversificada.",
+        "descricao_en": "Ivory Coast is a country in West Africa with a history of trade and colonization. Currently, Ivory Coast is a growing nation with a diverse economy and population."
+    },
+    "jamaica": {
+        "descricao_pt": "Jamaica é uma ilha no Caribe, famosa por sua música reggae e cultura vibrante. Sua história inclui colonização e influências africanas. Hoje, a Jamaica é um destino turístico popular e conhecida por sua hospitalidade.",
+        "descricao_en": "Jamaica is an island in the Caribbean, famous for its reggae music and vibrant culture. Its history includes colonization and African influences. Today, Jamaica is a popular tourist destination and known for its hospitality."
+    },
+    "japan": {
+        "descricao_pt": "Japão é uma nação insular no leste da Ásia, conhecida por sua cultura única e tecnologia avançada. Sua história inclui samurais e imperadores. Hoje, o Japão é uma potência econômica global e um centro de inovação.",
+        "descricao_en": "Japan is an island nation in East Asia, known for its unique culture and advanced technology. Its history includes samurais and emperors. Today, Japan is a global economic powerhouse and a center of innovation."
+    },
+    "jordan": {
+        "descricao_pt": "Jordânia é uma nação no Oriente Médio com uma história antiga e cenários naturais impressionantes. Atualmente, a Jordânia é um reino estável e pacífico em uma região marcada por conflitos.",
+        "descricao_en": "Jordan is a nation in the Middle East with an ancient history and stunning natural landscapes. Currently, Jordan is a stable and peaceful kingdom in a region marked by conflicts."
+    },
+    "kazakhstan": {
+        "descricao_pt": "Cazaquistão é o maior país sem litoral do mundo, conhecido por sua vasta estepe e história nômade. Hoje, o Cazaquistão é uma nação independente e em crescimento com recursos naturais abundantes.",
+        "descricao_en": "Kazakhstan is the world's largest landlocked country, known for its vast steppe and nomadic history. Today, Kazakhstan is an independent and growing nation with abundant natural resources."
+    },
+    "kenya": {
+        "descricao_pt": "Quênia é um país no leste da África, famoso por sua vida selvagem e paisagens diversas. Sua história inclui antigas civilizações e colonização britânica. Atualmente, o Quênia é uma democracia em desenvolvimento.",
+        "descricao_en": "Kenya is a country in East Africa, famous for its wildlife and diverse landscapes. Its history includes ancient civilizations and British colonization. Currently, Kenya is a developing democracy."
+    },
+    "kiribati": {
+        "descricao_pt": "Kiribati é uma nação insular no Pacífico Central, composta por atóis e recifes. Sua história inclui influências coloniais e desafios relacionados às mudanças climáticas. Hoje, Kiribati enfrenta ameaças de elevação do nível do mar.",
+        "descricao_en": "Kiribati is an island nation in the Central Pacific, composed of atolls and reefs. Its history includes colonial influences and challenges related to climate change. Today, Kiribati faces threats from rising sea levels."
+    },
+    "kuwait": {
+        "descricao_pt": "Kuwait é um país no Golfo Pérsico, conhecido por suas reservas de petróleo e modernização. Sua história inclui relações com impérios e conflitos regionais. Hoje, o Kuwait é uma nação rica e desenvolvida.",
+        "descricao_en": "Kuwait is a country in the Persian Gulf, known for its oil reserves and modernization. Its history includes relationships with empires and regional conflicts. Today, Kuwait is a wealthy and developed nation."
+    },
+    "kyrgyzstan": {
+        "descricao_pt": "O Quirguistão, oficialmente República Quirguiz, é uma nação da Ásia Central. Sua história é marcada por uma série de impérios e conquistadores ao longo dos séculos. No presente, o Quirguistão é conhecido por sua paisagem montanhosa deslumbrante e cultura nômade que perdura em algumas regiões do país.",
+        "descricao_en": "Kyrgyzstan, officially the Kyrgyz Republic, is a nation in Central Asia. Its history is marked by a series of empires and conquerors over the centuries. In the present day, Kyrgyzstan is known for its stunning mountainous landscape and a nomadic culture that persists in some regions of the country."
+    },
+    "laos": {
+        "descricao_pt": "O Laos, oficialmente República Democrática Popular do Laos, é um país situado no sudeste asiático. Ao longo de sua história, foi influenciado pelo Império Khmer, pelo Reino de Lan Xang e pelo domínio francês. Hoje, Laos é conhecido por sua beleza natural, incluindo as Planícies de Planícies e as montanhas de Luang Prabang.",
+        "descricao_en": "Laos, officially the Lao People's Democratic Republic, is a country in Southeast Asia. Throughout its history, it was influenced by the Khmer Empire, the Kingdom of Lan Xang, and French colonial rule. Today, Laos is known for its natural beauty, including the Plain of Jars and the mountains of Luang Prabang."
+    },
+    "latvia": {
+        "descricao_pt": "A Letônia é um país báltico localizado no norte da Europa. Sua história inclui períodos de dominação por impérios como o sueco e o russo. Atualmente, a Letônia é um estado independente com uma economia em crescimento e um ambiente cultural diversificado.",
+        "descricao_en": "Latvia is a Baltic country located in Northern Europe. Its history includes periods of domination by empires such as the Swedish and the Russian. Today, Latvia is an independent state with a growing economy and a diverse cultural environment."
+    },
+    "lebanon": {
+        "descricao_pt": "O Líbano é um país do Oriente Médio com uma história rica e complexa, incluindo influências fenícias, romanas, árabes e otomanas. Atualmente, o Líbano enfrenta desafios políticos e econômicos, mas é conhecido por sua culinária única e diversificada.",
+        "descricao_en": "Lebanon is a Middle Eastern country with a rich and complex history, including Phoenician, Roman, Arab, and Ottoman influences. Today, Lebanon faces political and economic challenges but is known for its unique and diverse cuisine."
+    },
+    "lesotho": {
+        "descricao_pt": "Lesoto é um pequeno país montanhoso localizado no sul da África. Foi fundado como um reino independente e tem uma história única. Atualmente, Lesoto é conhecido por suas paisagens deslumbrantes, incluindo as Montanhas Drakensberg.",
+        "descricao_en": "Lesotho is a small, mountainous country located in Southern Africa. It was founded as an independent kingdom and has a unique history. Today, Lesotho is known for its stunning landscapes, including the Drakensberg Mountains."
+    },
+    "liberia": {
+        "descricao_pt": "Libéria é um país da África Ocidental fundado por ex-escravos americanos. Sua história está ligada à luta pela liberdade e igualdade. Atualmente, a Libéria é uma democracia em desenvolvimento, enfrentando desafios econômicos e sociais.",
+        "descricao_en": "Liberia is a country in West Africa founded by former American slaves. Its history is intertwined with the struggle for freedom and equality. Today, Liberia is a developing democracy, facing economic and social challenges."
+    },
+    "libya": {
+        "descricao_pt": "A Líbia é um país do norte da África com uma história que remonta à antiguidade, incluindo a civilização cartaginesa e o domínio romano. No presente, a Líbia enfrenta instabilidade política e conflitos, mas é conhecida por suas riquezas de petróleo e gás.",
+        "descricao_en": "Libya is a North African country with a history dating back to antiquity, including the Carthaginian civilization and Roman rule. Currently, Libya faces political instability and conflicts but is known for its oil and gas wealth."
+    },
+    "liechtenstein": {
+        "descricao_pt": "Liechtenstein é uma nação alpina localizada na Europa Central. Possui uma história de soberania limitada e é conhecido por sua estabilidade política e economia próspera. O país também é famoso por seu cenário montanhoso deslumbrante.",
+        "descricao_en": "Liechtenstein is an alpine nation located in Central Europe. It has a history of limited sovereignty and is known for its political stability and prosperous economy. The country is also famous for its stunning mountainous scenery."
+    },
+    "lithuania": {
+        "descricao_pt": "A Lituânia é um país báltico com uma história que remonta à Idade Média. Foi um importante centro cultural e científico. Hoje, a Lituânia é uma nação independente com uma economia em crescimento e um forte senso de identidade nacional.",
+        "descricao_en": "Lithuania is a Baltic country with a history dating back to the Middle Ages. It was an important cultural and scientific center. Today, Lithuania is an independent nation with a growing economy and a strong sense of national identity."
+    },
+    "luxembourg": {
+        "descricao_pt": "Luxemburgo é uma nação europeia situada entre a Bélgica, a França e a Alemanha. Sua história inclui influências de impérios como o romano e o espanhol. Atualmente, Luxemburgo é conhecido por sua riqueza econômica e qualidade de vida elevada.",
+        "descricao_en": "Luxembourg is a European nation situated between Belgium, France, and Germany. Its history includes influences from empires such as the Roman and Spanish. Today, Luxembourg is known for its economic wealth and high quality of life."
+    },
+    "madagascar": {
+        "descricao_pt": "Madagáscar, oficialmente República de Madagáscar, é uma ilha na costa leste da África. Sua história é marcada por influências africanas e asiáticas. No presente, Madagáscar é famoso por sua biodiversidade única e paisagens espetaculares.",
+        "descricao_en": "Madagascar, officially the Republic of Madagascar, is an island off the east coast of Africa. Its history is marked by African and Asian influences. Today, Madagascar is famous for its unique biodiversity and spectacular landscapes."
+    },
+    "malawi": {
+        "descricao_pt": "Malawi é uma nação no sudeste da África. Sua história inclui a colonização britânica. Atualmente, o Malawi é conhecido por seu lago homônimo, o Lago Malawi, que é um dos maiores e mais profundos lagos de água doce do mundo.",
+        "descricao_en": "Malawi is a nation in Southeast Africa. Its history includes British colonization. Currently, Malawi is known for its namesake lake, Lake Malawi, which is one of the largest and deepest freshwater lakes in the world."
+    },
+    "malaysia": {
+        "descricao_pt": "A Malásia é uma nação do sudeste asiático que foi influenciada por várias culturas, incluindo a malaia, a chinesa e a indiana. Hoje, a Malásia é uma nação multicultural com uma economia em crescimento e é famosa por suas belas praias e florestas tropicais.",
+        "descricao_en": "Malaysia is a Southeast Asian nation that has been influenced by various cultures, including Malay, Chinese, and Indian. Today, Malaysia is a multicultural nation with a growing economy and is famous for its beautiful beaches and tropical forests."
+    },
+    "maldives": {
+        "descricao_pt": "As Maldivas, oficialmente República das Maldivas, são uma nação insular no Oceano Índico. Sua história está ligada ao comércio marítimo e à cultura islâmica. Atualmente, as Maldivas são conhecidas por suas praias paradisíacas e recifes de coral espetaculares.",
+        "descricao_en": "Maldives, officially the Republic of Maldives, is an island nation in the Indian Ocean. Its history is linked to maritime trade and Islamic culture. Today, Maldives is known for its paradise beaches and spectacular coral reefs."
+    },
+    "mali": {
+        "descricao_pt": "Mali é uma nação da África Ocidental com uma história rica, incluindo o Império do Mali, um dos maiores impérios africanos da história. Atualmente, Mali enfrenta desafios políticos e sociais, mas é conhecido por sua música tradicional e cultura vibrante.",
+        "descricao_en": "Mali is a West African nation with a rich history, including the Mali Empire, one of the largest African empires in history. Today, Mali faces political and social challenges but is known for its traditional music and vibrant culture."
+    },
+    "malta": {
+        "descricao_pt": "Malta é um arquipélago no Mar Mediterrâneo com uma história que remonta a civilizações antigas, incluindo os fenícios e os romanos. Atualmente, Malta é um país independente e membro da União Europeia, conhecido por sua arquitetura histórica e praias deslumbrantes.",
+        "descricao_en": "Malta is an archipelago in the Mediterranean Sea with a history dating back to ancient civilizations, including the Phoenicians and Romans. Currently, Malta is an independent country and a member of the European Union, known for its historic architecture and stunning beaches."
+    },
+    "marshall islands": {
+        "descricao_pt": "As Ilhas Marshall são uma nação insular no Oceano Pacífico. Sua história inclui a administração sob o domínio dos Estados Unidos. No presente, as Ilhas Marshall são conhecidas por suas belas praias de areia branca e sua cultura tradicional.",
+        "descricao_en": "The Marshall Islands is an island nation in the Pacific Ocean. Its history includes administration under the United States. Currently, the Marshall Islands are known for their beautiful white-sand beaches and traditional culture."
+    },
+    "mauritania": {
+        "descricao_pt": "Mauritânia é um país no noroeste da África com uma história que remonta ao Império Garamante. Atualmente, a Mauritânia enfrenta desafios econômicos e sociais, mas é conhecida por seu vasto deserto e tradições nômades.",
+        "descricao_en": "Mauritania is a country in Northwest Africa with a history dating back to the Garamantian Empire. Today, Mauritania faces economic and social challenges but is known for its vast desert and nomadic traditions."
+    },
+    "mauritius": {
+        "descricao_pt": "Maurício é uma ilha no Oceano Índico com uma história marcada por colonização europeia, incluindo o domínio francês e britânico. Atualmente, Maurício é conhecida por suas praias exuberantes e como um destino turístico popular.",
+        "descricao_en": "Mauritius is an island in the Indian Ocean with a history marked by European colonization, including French and British rule. Currently, Mauritius is known for its lush beaches and as a popular tourist destination."
+    },
+    "mexico": {
+        "descricao_pt": "O México é um país na América do Norte com uma história rica, incluindo civilizações antigas como os maias e os astecas. Atualmente, o México é uma nação diversa com uma cultura vibrante, famosa por sua comida, música e tradições únicas.",
+        "descricao_en": "Mexico is a country in North America with a rich history, including ancient civilizations like the Maya and the Aztecs. Currently, Mexico is a diverse nation with a vibrant culture, famous for its food, music, and unique traditions."
+    },
+    "micronesia": {
+        "descricao_pt": "A Micronésia, oficialmente conhecida como Estados Federados da Micronésia, é uma nação insular no Oceano Pacífico. Sua história é marcada por uma rica herança cultural, com várias ilhas e grupos étnicos habitando a região. Hoje, a Micronésia é um país pacífico, com uma economia voltada para a pesca e o turismo, graças à sua beleza natural e recifes de coral deslumbrantes.",
+        "descricao_en": "Micronesia, officially known as the Federated States of Micronesia, is an island nation in the Pacific Ocean. Its history is marked by a rich cultural heritage, with various islands and ethnic groups inhabiting the region. Today, Micronesia is a peaceful country with an economy focused on fishing and tourism, thanks to its natural beauty and stunning coral reefs."
+    },
+    "moldova": {
+        "descricao_pt": "Moldova, oficialmente a República da Moldávia, é um país localizado na Europa Oriental. Ao longo de sua história, Moldova foi influenciada por várias culturas e impérios. Atualmente, é um país independente com uma economia em desenvolvimento e uma sociedade que preserva suas tradições culturais únicas.",
+        "descricao_en": "Moldova, officially the Republic of Moldova, is a country located in Eastern Europe. Throughout its history, Moldova has been influenced by various cultures and empires. Today, it is an independent country with a developing economy and a society that preserves its unique cultural traditions."
+    },
+    "monaco": {
+        "descricao_pt": "Mônaco é um pequeno principado localizado na costa sul da França, conhecido por sua riqueza e glamour. Sua história está entrelaçada com a dinastia Grimaldi, que governa o país há séculos. Atualmente, Mônaco é um centro de turismo, negócios e entretenimento, com seu cassino famoso e belas paisagens à beira-mar.",
+        "descricao_en": "Monaco is a small principality located on the southern coast of France, known for its wealth and glamour. Its history is intertwined with the Grimaldi dynasty, which has ruled the country for centuries. Today, Monaco is a hub for tourism, business, and entertainment, with its famous casino and beautiful seaside landscapes."
+    },
+    "mongolia": {
+        "descricao_pt": "A Mongólia é uma nação da Ásia Central conhecida por suas vastas estepes e história nômade. Ao longo dos séculos, o império mongol conquistou territórios vastos sob Genghis Khan. Hoje, a Mongólia é uma república independente que preserva suas tradições culturais e está se desenvolvendo economicamente.",
+        "descricao_en": "Mongolia is a nation in Central Asia known for its vast steppes and nomadic history. Over the centuries, the Mongol Empire conquered vast territories under Genghis Khan. Today, Mongolia is an independent republic that preserves its cultural traditions and is developing economically."
+    },
+    "montenegro": {
+        "descricao_pt": "Montenegro, oficialmente conhecido como Montenegro, é um país dos Bálcãs, situado na costa leste do Mar Adriático. Com uma história que remonta aos tempos antigos, Montenegro é conhecido por sua beleza natural, incluindo montanhas imponentes e lindas praias. Atualmente, o país é uma república independente e um destino turístico em ascensão.",
+        "descricao_en": "Montenegro, officially known as Montenegro, is a Balkan country located on the eastern coast of the Adriatic Sea. With a history dating back to ancient times, Montenegro is known for its natural beauty, including towering mountains and beautiful beaches. Today, the country is an independent republic and a rising tourist destination."
+    },
+    "morocco": {
+        "descricao_pt": "Marrocos, oficialmente o Reino de Marrocos, é um país no norte da África com uma rica história e cultura. Berço de civilizações antigas, Marrocos é conhecido por seus souks, mesquitas e paisagens variadas, que vão desde o deserto do Saara até as montanhas do Atlas. Hoje, Marrocos é uma monarquia constitucional com uma economia diversificada.",
+        "descricao_en": "Morocco, officially the Kingdom of Morocco, is a country in North Africa with a rich history and culture. Home to ancient civilizations, Morocco is known for its souks, mosques, and diverse landscapes, ranging from the Sahara Desert to the Atlas Mountains. Today, Morocco is a constitutional monarchy with a diversified economy."
+    },
+    "mozambique": {
+        "descricao_pt": "Moçambique, oficialmente a República de Moçambique, é uma nação localizada na costa sudeste da África. Sua história envolveu o comércio de escravos e a colonização por potências europeias. Atualmente, Moçambique é uma república independente com uma economia em crescimento e uma cultura diversificada.",
+        "descricao_en": "Mozambique, officially the Republic of Mozambique, is a nation located on the southeast coast of Africa. Its history involved the slave trade and colonization by European powers. Today, Mozambique is an independent republic with a growing economy and a diverse culture."
+    },
+    "myanmar": {
+        "descricao_pt": "Mianmar, oficialmente a União de Mianmar, é um país do sudeste asiático com uma história rica e complexa. Marcado por governos militares e lutas políticas, Mianmar está atualmente passando por mudanças políticas significativas. O país é conhecido por sua cultura diversificada e paisagens deslumbrantes.",
+        "descricao_en": "Myanmar, officially the Union of Myanmar, is a Southeast Asian country with a rich and complex history. Marked by military governments and political struggles, Myanmar is currently undergoing significant political changes. The country is known for its diverse culture and stunning landscapes."
+    },
+    "namibia": {
+        "descricao_pt": "Namíbia, oficialmente a República da Namíbia, é um país no sudoeste da África com uma paisagem deslumbrante, incluindo o deserto do Namibe. Sua história inclui o domínio colonial alemão e sul-africano. Hoje, a Namíbia é uma república independente com uma economia em crescimento e um compromisso com a conservação da natureza.",
+        "descricao_en": "Namibia, officially the Republic of Namibia, is a country in southwestern Africa with stunning landscapes, including the Namib Desert. Its history includes German and South African colonial rule. Today, Namibia is an independent republic with a growing economy and a commitment to nature conservation."
+    },
+    "nauru": {
+        "descricao_pt": "Nauru é uma pequena nação insular no Pacífico Central, conhecida por sua dependência da mineração de fosfato. Sua história inclui o domínio colonial australiano e britânico. Atualmente, Nauru é uma república independente que enfrenta desafios econômicos, mas mantém sua identidade cultural única.",
+        "descricao_en": "Nauru is a small island nation in the Central Pacific, known for its reliance on phosphate mining. Its history includes Australian and British colonial rule. Today, Nauru is an independent republic facing economic challenges but preserving its unique cultural identity."
+    },
+    "nepal": {
+        "descricao_pt": "Nepal, oficialmente o Reino do Nepal, é um país no sul da Ásia conhecido por sua geografia montanhosa, incluindo o Monte Everest. Sua história é rica em tradições espirituais e culturais. Atualmente, Nepal é uma república federal com uma cultura diversificada e uma economia em desenvolvimento.",
+        "descricao_en": "Nepal, officially the Kingdom of Nepal, is a country in South Asia known for its mountainous geography, including Mount Everest. Its history is rich in spiritual and cultural traditions. Today, Nepal is a federal republic with a diverse culture and a developing economy."
+    },
+    "netherlands": {
+        "descricao_pt": "Os Países Baixos, oficialmente conhecidos como Reino dos Países Baixos, são uma nação na Europa Ocidental. Sua história inclui a Idade de Ouro dos Países Baixos e um império colonial. Atualmente, os Países Baixos são uma monarquia constitucional com uma economia avançada e uma cultura rica em arte e inovação.",
+        "descricao_en": "The Netherlands, officially known as the Kingdom of the Netherlands, is a nation in Western Europe. Its history includes the Dutch Golden Age and a colonial empire. Today, the Netherlands is a constitutional monarchy with an advanced economy and a culture rich in art and innovation."
+    },
+    "new zealand": {
+        "descricao_pt": "A Nova Zelândia é um país insular no sudoeste do Pacífico Sul, conhecido por suas paisagens deslumbrantes e cultura Maori. Sua história envolveu a migração polinésia e a colonização britânica. Atualmente, a Nova Zelândia é uma democracia parlamentar com uma economia desenvolvida e um foco na preservação ambiental.",
+        "descricao_en": "New Zealand is an island nation in the southwestern South Pacific, known for its stunning landscapes and Maori culture. Its history involved Polynesian migration and British colonization. Today, New Zealand is a parliamentary democracy with a developed economy and a focus on environmental preservation."
+    },
+    "nicaragua": {
+        "descricao_pt": "Nicarágua, oficialmente a República da Nicarágua, é um país na América Central com uma história de conflitos políticos e revoluções. Atualmente, a Nicarágua é uma república com desafios econômicos e políticos, mas também possui uma rica herança cultural e belezas naturais, como o Lago Nicarágua.",
+        "descricao_en": "Nicaragua, officially the Republic of Nicaragua, is a country in Central America with a history of political conflicts and revolutions. Today, Nicaragua is a republic facing economic and political challenges, but it also has a rich cultural heritage and natural beauties, such as Lake Nicaragua."
+    },
+    "niger": {
+        "descricao_pt": "Níger, oficialmente a República do Níger, é um país na África Ocidental, marcado por sua história como parte do Império Songhai e do comércio transaariano. Atualmente, o Níger é uma república independente com desafios econômicos, mas também com um patrimônio cultural diversificado e paisagens desérticas impressionantes.",
+        "descricao_en": "Niger, officially the Republic of Niger, is a country in West Africa, marked by its history as part of the Songhai Empire and trans-Saharan trade. Today, Niger is an independent republic with economic challenges but also a diverse cultural heritage and stunning desert landscapes."
+    },
+    "nigeria": {
+        "descricao_pt": "Nigéria, oficialmente a República Federal da Nigéria, é o país mais populoso da África, com uma história rica e complexa. O país abriga diversas etnias e culturas. Atualmente, a Nigéria é uma república democrática com uma economia em crescimento, embora enfrente desafios sociais e políticos.",
+        "descricao_en": "Nigeria, officially the Federal Republic of Nigeria, is the most populous country in Africa, with a rich and complex history. The country is home to diverse ethnicities and cultures. Today, Nigeria is a democratic republic with a growing economy, although it faces social and political challenges."
+    },
+    "north korea": {
+        "descricao_pt": "A Coreia do Norte, oficialmente a República Popular Democrática da Coreia, é um país na Península Coreana, conhecido por seu regime político fechado e isolado. A história da Coreia do Norte é marcada por divisões e tensões com a Coreia do Sul. Atualmente, o país é um estado totalitário com uma economia centralizada.",
+        "descricao_en": "North Korea, officially the Democratic People's Republic of Korea, is a country on the Korean Peninsula, known for its closed and isolated political regime. North Korea's history is marked by divisions and tensions with South Korea. Today, the country is a totalitarian state with a centralized economy."
+    },
+    "north macedonia": {
+        "descricao_pt": "Macedônia do Norte, oficialmente a República da Macedônia do Norte, é um país nos Bálcãs com uma história complexa, incluindo a herança da antiga Macedônia. Atualmente, a Macedônia do Norte é uma república independente, com uma economia em crescimento e um compromisso com a reconciliação étnica e a estabilidade na região.",
+        "descricao_en": "North Macedonia, officially the Republic of North Macedonia, is a country in the Balkans with a complex history, including the legacy of ancient Macedonia. Today, North Macedonia is an independent republic with a growing economy and a commitment to ethnic reconciliation and stability in the region."
+    },
+    "norway": {
+        "descricao_pt": "A Noruega, oficialmente conhecida como Reino da Noruega, é um país nórdico localizado na parte norte da Europa. Sua história é marcada por períodos de reinos unificados e independência, sendo governada por monarcas desde a Idade Média. Com uma geografia deslumbrante que inclui fiordes profundos e montanhas cobertas de neve, a Noruega é famosa por sua beleza natural. Atualmente, o país é conhecido por sua qualidade de vida elevada e pelo papel ativo na promoção da paz e dos direitos humanos no cenário internacional.",
+        "descricao_en": "Norway, officially known as the Kingdom of Norway, is a Nordic country located in the northern part of Europe. Its history is marked by periods of unified kingdoms and independence, ruled by monarchs since the Middle Ages. With stunning geography that includes deep fjords and snow-covered mountains, Norway is famous for its natural beauty. Today, the country is known for its high quality of life and its active role in promoting peace and human rights on the international stage."
+    },
+    "oman": {
+        "descricao_pt": "Omã, oficialmente Sultanato de Omã, é um país localizado na Península Arábica, no sudoeste da Ásia. Sua história remonta a impérios antigos, com influências árabes e persas. A nação é conhecida por suas paisagens desérticas e litorais espetaculares. Na atualidade, Omã é um país que passou por desenvolvimento econômico significativo, diversificando sua economia e investindo em infraestrutura e educação.",
+        "descricao_en": "Oman, officially the Sultanate of Oman, is a country located on the Arabian Peninsula in southwestern Asia. Its history dates back to ancient empires, with Arab and Persian influences. The nation is known for its desert landscapes and spectacular coastlines. Today, Oman is a country that has undergone significant economic development, diversifying its economy and investing in infrastructure and education."
+    },
+    "pakistan": {
+        "descricao_pt": "O Paquistão, oficialmente República Islâmica do Paquistão, está situado no sul da Ásia e faz fronteira com a Índia, o Afeganistão e o Irã. Sua história é rica, incluindo o período da antiga civilização do vale do Indo. O país é conhecido por sua diversidade cultural, línguas e tradições. Na atualidade, o Paquistão enfrenta desafios políticos e sociais, mas também busca promover o desenvolvimento econômico e a estabilidade.",
+        "descricao_en": "Pakistan, officially the Islamic Republic of Pakistan, is located in South Asia and shares borders with India, Afghanistan, and Iran. Its history is rich, including the period of the ancient Indus Valley civilization. The country is known for its cultural diversity, languages, and traditions. Today, Pakistan faces political and social challenges, but it also strives to promote economic development and stability."
+    },
+    "palau": {
+        "descricao_pt": "Palau, oficialmente República de Palau, é uma nação insular no Oceano Pacífico Ocidental. Sua história inclui influências culturais da Micronésia e da Espanha. As belas praias e recifes de coral tornam Palau um destino popular para o mergulho. Na atualidade, o país é reconhecido por seus esforços de conservação marinha e turismo sustentável.",
+        "descricao_en": "Palau, officially the Republic of Palau, is an island nation in the Western Pacific Ocean. Its history includes cultural influences from Micronesia and Spain. The beautiful beaches and coral reefs make Palau a popular destination for diving. Today, the country is known for its marine conservation efforts and sustainable tourism."
+    },
+    "palestine": {
+        "descricao_pt": "A Palestina, uma terra historicamente disputada no Oriente Médio, tem uma história marcada por conflitos e lutas políticas. É um lugar de importância religiosa para o judaísmo, o cristianismo e o islamismo. Na atualidade, a questão palestina continua a ser um tema complexo e de destaque na política global, com esforços em busca de paz e soluções duradouras.",
+        "descricao_en": "Palestine, a historically disputed land in the Middle East, has a history marked by conflicts and political struggles. It holds religious significance for Judaism, Christianity, and Islam. Today, the Palestinian issue remains a complex and prominent topic in global politics, with efforts towards peace and lasting solutions."
+    },
+    "panama": {
+        "descricao_pt": "O Panamá, oficialmente República do Panamá, é um país na América Central que se tornou conhecido por seu famoso canal, uma importante rota de comércio internacional. Sua história inclui períodos de domínio colonial espanhol e sua luta pela independência. Na atualidade, o Panamá é uma nação em crescimento econômico, com uma economia diversificada e uma paisagem que vai desde praias tropicais até montanhas exuberantes.",
+        "descricao_en": "Panama, officially the Republic of Panama, is a country in Central America known for its famous canal, a major route for international trade. Its history includes periods of Spanish colonial rule and its struggle for independence. Today, Panama is a nation experiencing economic growth, with a diversified economy and a landscape that ranges from tropical beaches to lush mountains."
+    },
+    "papua new guinea": {
+        "descricao_pt": "Papua Nova Guiné é um país na Oceania, localizado ao norte da Austrália. Sua história inclui uma grande diversidade de grupos étnicos e línguas. O país é conhecido por sua natureza exuberante, incluindo florestas tropicais e vida marinha única. Na atualidade, Papua Nova Guiné enfrenta desafios de desenvolvimento, mas também preserva sua rica cultura e biodiversidade.",
+        "descricao_en": "Papua New Guinea is a country in Oceania, located north of Australia. Its history includes a wide diversity of ethnic groups and languages. The country is known for its lush nature, including tropical rainforests and unique marine life. Today, Papua New Guinea faces development challenges, but also preserves its rich culture and biodiversity."
+    },
+    "paraguay": {
+        "descricao_pt": "O Paraguai, oficialmente República do Paraguai, é um país no coração da América do Sul, conhecido por sua língua oficial, o guarani, e sua história marcada por conflitos regionais. Sua economia depende da agricultura, e o país é famoso por sua erva-mate. Na atualidade, o Paraguai busca o desenvolvimento econômico e a estabilidade política.",
+        "descricao_en": "Paraguay, officially the Republic of Paraguay, is a landlocked country in the heart of South America, known for its official language, Guarani, and its history marked by regional conflicts. Its economy relies on agriculture, and the country is famous for its yerba mate. Today, Paraguay seeks economic development and political stability."
+    },
+    "peru": {
+        "descricao_pt": "O Peru, oficialmente República do Peru, é um país na América do Sul com uma rica herança cultural que remonta aos impérios Incas. Suas paisagens variam desde a majestosa Cordilheira dos Andes até a floresta amazônica. Na atualidade, o Peru é conhecido por sua culinária única, sítios arqueológicos e uma economia em crescimento.",
+        "descricao_en": "Peru, officially the Republic of Peru, is a country in South America with a rich cultural heritage dating back to the Inca empires. Its landscapes range from the majestic Andes Mountains to the Amazon rainforest. Today, Peru is known for its unique cuisine, archaeological sites, and a growing economy."
+    },
+    "philippines": {
+        "descricao_pt": "As Filipinas, oficialmente República das Filipinas, são um arquipélago no Sudeste Asiático com uma história que inclui influências espanholas e americanas. O país é conhecido por suas praias deslumbrantes, recifes de coral e biodiversidade marinha. Na atualidade, as Filipinas são uma nação em desenvolvimento, com uma economia em crescimento e desafios sociais a enfrentar.",
+        "descricao_en": "The Philippines, officially the Republic of the Philippines, is an archipelago in Southeast Asia with a history that includes Spanish and American influences. The country is known for its stunning beaches, coral reefs, and marine biodiversity. Today, the Philippines is a developing nation, with a growing economy and social challenges to address."
+    },
+    "poland": {
+        "descricao_pt": "A Polônia, oficialmente República da Polônia, está localizada na Europa Central e tem uma história rica, com uma forte tradição cultural e literária. O país é famoso por sua resistência durante a Segunda Guerra Mundial. Na atualidade, a Polônia é uma nação da União Europeia, com uma economia em crescimento e uma herança cultural valorizada.",
+        "descricao_en": "Poland, officially the Republic of Poland, is located in Central Europe and has a rich history, with a strong cultural and literary tradition. The country is famous for its resistance during World War II. Today, Poland is a member of the European Union, with a growing economy and a valued cultural heritage."
+    },
+    "portugal": {
+        "descricao_pt": "Portugal, oficialmente República Portuguesa, é um país no sudoeste da Europa com uma história marcada por descobrimentos marítimos e impérios coloniais. Sua língua, o português, é amplamente falada em todo o mundo. Na atualidade, Portugal é conhecido por suas paisagens costeiras deslumbrantes, vinhos e turismo.",
+        "descricao_en": "Portugal, officially the Portuguese Republic, is a country in southwestern Europe with a history marked by maritime discoveries and colonial empires. Its language, Portuguese, is widely spoken around the world. Today, Portugal is known for its stunning coastal landscapes, wines, and tourism."
+    },
+    "qatar": {
+        "descricao_pt": "O Catar, oficialmente Estado do Catar, é um país na Península Arábica com uma história que remonta a períodos pré-islâmicos. O país é conhecido por sua riqueza devido às reservas de gás natural e seu investimento em infraestrutura. Na atualidade, o Catar é um centro de negócios global e uma nação próspera.",
+        "descricao_en": "Qatar, officially the State of Qatar, is a country on the Arabian Peninsula with a history dating back to pre-Islamic periods. The country is known for its wealth due to natural gas reserves and its investment in infrastructure. Today, Qatar is a global business hub and a prosperous nation."
+    },
+    "romania": {
+        "descricao_pt": "A Romênia, oficialmente Romênia, é um país localizado na Europa Oriental, com uma história que inclui influências romanas e otomanas. Suas paisagens variam de montanhas a planícies férteis. Na atualidade, a Romênia é uma nação da União Europeia em crescimento, com uma cultura rica e patrimônio histórico.",
+        "descricao_en": "Romania, officially Romania, is a country located in Eastern Europe, with a history that includes Roman and Ottoman influences. Its landscapes range from mountains to fertile plains. Today, Romania is a growing European Union nation with a rich culture and historical heritage."
+    },
+    "russia": {
+        "descricao_pt": "A Rússia, oficialmente Federação Russa, é o maior país do mundo, estendendo-se pela Europa Oriental e Ásia do Norte. Sua história é rica e abrange desde o Império Russo até a União Soviética. Na atualidade, a Rússia é uma potência global, com uma cultura diversificada, vastas paisagens e uma economia complexa.",
+        "descricao_en": "Russia, officially the Russian Federation, is the largest country in the world, spanning Eastern Europe and Northern Asia. Its history is rich, ranging from the Russian Empire to the Soviet Union. Today, Russia is a global powerhouse, with a diverse culture, vast landscapes, and a complex economy."
+    },
+    "rwanda": {
+        "descricao_pt": "Ruanda, oficialmente República de Ruanda, é um país no leste da África conhecido por sua história de conflito étnico e genocídio. No entanto, o país fez progressos notáveis na reconciliação e no desenvolvimento pós-conflito. Na atualidade, Ruanda é reconhecida por seu crescimento econômico, estabilidade política e esforços de preservação ambiental.",
+        "descricao_en": "Rwanda, officially the Republic of Rwanda, is a country in East Africa known for its history of ethnic conflict and genocide. However, the country has made significant progress in reconciliation and post-conflict development. Today, Rwanda is recognized for its economic growth, political stability, and environmental conservation efforts."
+    },
+    "saint kitts and nevis": {
+        "descricao_pt": "São Cristóvão e Nevis é um pequeno país insular no Caribe, localizado no arquipélago das Pequenas Antilhas. Sua história remonta à colonização europeia, com diferentes potências coloniais governando as ilhas ao longo dos séculos. Atualmente, o país é conhecido por suas praias deslumbrantes e a indústria do turismo desempenha um papel importante em sua economia.",
+        "descricao_en": "Saint Kitts and Nevis is a small island nation in the Caribbean, situated in the Lesser Antilles archipelago. Its history dates back to European colonization, with different colonial powers ruling the islands over the centuries. Today, the country is known for its stunning beaches, and the tourism industry plays a significant role in its economy."
+    },
+    "saint lucia": {
+        "descricao_pt": "Santa Lúcia é uma ilha no mar do Caribe que foi colonizada pelos franceses e britânicos ao longo de sua história. Hoje, é uma nação independente com uma economia baseada principalmente no turismo. Suas belas praias, vulcões e florestas tropicais atraem visitantes de todo o mundo.",
+        "descricao_en": "Saint Lucia is an island in the Caribbean Sea that has been colonized by both the French and the British throughout its history. Today, it is an independent nation with an economy primarily based on tourism. Its beautiful beaches, volcanoes, and rainforests attract visitors from all over the world."
+    },
+    "saint vincent and the grenadines": {
+        "descricao_pt": "São Vicente e Granadinas é um país insular no mar do Caribe, composto por várias ilhas e ilhotas. Sua história inclui colonização europeia, principalmente por britânicos e franceses. Atualmente, o país é conhecido por suas praias intocadas e é um destino popular para iates e velejadores.",
+        "descricao_en": "Saint Vincent and the Grenadines is an island nation in the Caribbean Sea, composed of multiple islands and islets. Its history includes European colonization, mainly by the British and the French. Today, the country is known for its unspoiled beaches and is a popular destination for yachts and sailors."
+    },
+    "samoa": {
+        "descricao_pt": "Samoa é uma nação insular no Pacífico Sul, composta por várias ilhas. Sua história inclui períodos de governo alemão e neozelandês, antes de conquistar a independência em 1962. No presente, Samoa é conhecida por sua cultura polinésia única, praias deslumbrantes e hospitalidade calorosa.",
+        "descricao_en": "Samoa is an island nation in the South Pacific, composed of multiple islands. Its history includes periods of German and New Zealand rule before gaining independence in 1962. Today, Samoa is known for its unique Polynesian culture, stunning beaches, and warm hospitality."
+    },
+    "san marino": {
+        "descricao_pt": "San Marino é uma república no norte da Itália, completamente cercada pelo território italiano. É uma das nações mais antigas do mundo, com uma história que remonta à fundação em 301 d.C. San Marino é conhecida por sua arquitetura medieval impressionante e é um destino turístico popular.",
+        "descricao_en": "San Marino is a republic in northern Italy, completely surrounded by Italian territory. It is one of the world's oldest nations, with a history dating back to its foundation in 301 AD. San Marino is known for its impressive medieval architecture and is a popular tourist destination."
+    },
+    "so tomé and príncipe": {
+        "descricao_pt": "São Tomé e Príncipe é um país insular no Golfo da Guiné, na costa oeste da África Central. Sua história inclui o período colonial português, e a nação ganhou independência em 1975. Atualmente, o país é conhecido por suas paisagens tropicais, plantações de cacau e produção de café.",
+        "descricao_en": "São Tomé and Príncipe is an island nation in the Gulf of Guinea, off the west coast of Central Africa. Its history includes the Portuguese colonial period, and the nation gained independence in 1975. Today, the country is known for its tropical landscapes, cocoa plantations, and coffee production."
+    },
+    "saudi arabia": {
+        "descricao_pt": "Arábia Saudita é uma nação no Oriente Médio, conhecida por sua história rica e significativa importância no Islã. O país é lar das cidades sagradas de Meca e Medina e é conhecido por suas vastas reservas de petróleo. Nos dias de hoje, a Arábia Saudita passa por transformações econômicas e sociais significativas.",
+        "descricao_en": "Saudi Arabia is a nation in the Middle East, known for its rich history and significant importance in Islam. The country is home to the holy cities of Mecca and Medina and is known for its vast oil reserves. Today, Saudi Arabia is undergoing significant economic and social transformations."
+    },
+    "senegal": {
+        "descricao_pt": "Senegal é uma nação na África Ocidental com uma rica história que inclui a influência de impérios como o Mali e o Songhai. Atualmente, o país é conhecido por sua diversidade étnica, música vibrante e pela cidade costeira de Dakar, que é um centro cultural e econômico importante na região.",
+        "descricao_en": "Senegal is a nation in West Africa with a rich history that includes the influence of empires like Mali and Songhai. Today, the country is known for its ethnic diversity, vibrant music, and the coastal city of Dakar, which is a significant cultural and economic hub in the region."
+    },
+    "serbia": {
+        "descricao_pt": "Sérvia é um país localizado na região dos Bálcãs, no sudeste da Europa. Sua história inclui períodos de impérios como o Romano e o Otomano. Atualmente, a Sérvia é uma nação independente e é conhecida por sua cultura rica, belos mosteiros ortodoxos e a vibrante cidade de Belgrado.",
+        "descricao_en": "Serbia is a country located in the Balkans region of Southeastern Europe. Its history includes periods of empires like the Roman and Ottoman. Today, Serbia is an independent nation and is known for its rich culture, beautiful Orthodox monasteries, and the vibrant city of Belgrade."
+    },
+    "seychelles": {
+        "descricao_pt": "Seicheles é uma nação insular no oceano Índico, composta por várias ilhas. Sua história inclui influências francesas e britânicas. Atualmente, o país é um paraíso tropical conhecido por suas praias de areia branca, recifes de coral e biodiversidade marinha única.",
+        "descricao_en": "Seychelles is an island nation in the Indian Ocean, composed of multiple islands. Its history includes French and British influences. Today, the country is a tropical paradise known for its white-sand beaches, coral reefs, and unique marine biodiversity."
+    },
+    "sierra leone": {
+        "descricao_pt": "Serra Leoa é um país na África Ocidental com uma história marcada pelo comércio de escravos e o colonialismo britânico. Atualmente, o país se esforça para superar os desafios do passado e está trabalhando no desenvolvimento econômico e na construção de uma sociedade pacífica e democrática.",
+        "descricao_en": "Sierra Leone is a country in West Africa with a history marked by the slave trade and British colonialism. Today, the country is striving to overcome the challenges of the past and is working on economic development and building a peaceful and democratic society."
+    },
+    "singapore": {
+        "descricao_pt": "Singapura é uma cidade-estado no sudeste asiático, conhecida por sua transformação de uma pequena vila de pescadores em uma metrópole global de alta tecnologia. O país é um centro financeiro e de negócios importante e é famoso por sua limpeza e eficiência.",
+        "descricao_en": "Singapore is a city-state in Southeast Asia, known for its transformation from a small fishing village into a high-tech global metropolis. The country is a major financial and business hub and is famous for its cleanliness and efficiency."
+    },
+    "slovakia": {
+        "descricao_pt": "Eslováquia é uma nação na Europa Central, conhecida por sua paisagem montanhosa e história compartilhada com a República Tcheca. Após a separação pacífica, a Eslováquia se tornou independente em 1993. Atualmente, o país está prosperando economicamente e oferece belos cenários naturais.",
+        "descricao_en": "Slovakia is a nation in Central Europe, known for its mountainous landscape and shared history with the Czech Republic. After a peaceful separation, Slovakia became independent in 1993. Today, the country is thriving economically and offers beautiful natural scenery."
+    },
+    "slovenia": {
+        "descricao_pt": "Eslovênia é um país na Europa Central, anteriormente parte da Iugoslávia. Sua história inclui períodos de domínio estrangeiro. Atualmente, a Eslovênia é uma nação independente com uma economia estável e é conhecida por sua beleza natural, incluindo lagos e montanhas deslumbrantes.",
+        "descricao_en": "Slovenia is a country in Central Europe, formerly part of Yugoslavia. Its history includes periods of foreign rule. Today, Slovenia is an independent nation with a stable economy and is known for its natural beauty, including stunning lakes and mountains."
+    },
+    "solomon islands": {
+        "descricao_pt": "Ilhas Salomão é uma nação insular no Pacífico, conhecida por sua rica cultura indígena e biodiversidade única. Sua história inclui o período de governo britânico. Atualmente, o país está trabalhando no desenvolvimento econômico e na conservação de seus recursos naturais.",
+        "descricao_en": "Solomon Islands is an island nation in the Pacific, known for its rich indigenous culture and unique biodiversity. Its history includes a period of British rule. Today, the country is working on economic development and the conservation of its natural resources."
+    },
+    "somalia": {
+        "descricao_pt": "A Somália, oficialmente República Federal da Somália, é um país localizado no Chifre da África, na costa leste do continente africano. A história da Somália é marcada por civilizações antigas, comércio marítimo e influências culturais árabes e persas. No entanto, a nação passou por conflitos e instabilidade política nas últimas décadas. A Somália é conhecida por sua paisagem costeira espetacular e sua rica tradição oral.",
+        "descricao_en": "Somalia, officially the Federal Republic of Somalia, is a country located in the Horn of Africa, on the eastern coast of the African continent. Somalia's history is marked by ancient civilizations, maritime trade, and Arab and Persian cultural influences. However, the nation has experienced conflict and political instability in recent decades. Somalia is known for its spectacular coastal landscape and rich oral tradition."
+    },
+    "south africa": {
+        "descricao_pt": "A África do Sul, oficialmente República da África do Sul, é um país localizado no extremo sul do continente africano. A nação possui uma história complexa, incluindo o período do apartheid, que segregou a população com base na raça. Hoje, a África do Sul é uma democracia multirracial e possui uma diversidade cultural notável. O país é famoso por sua vida selvagem, com reservas de caça e parques nacionais.",
+        "descricao_en": "South Africa, officially the Republic of South Africa, is a country located at the southernmost tip of the African continent. The nation has a complex history, including the period of apartheid, which segregated the population based on race. Today, South Africa is a multiracial democracy with remarkable cultural diversity. The country is famous for its wildlife, with game reserves and national parks."
+    },
+    "south korea": {
+        "descricao_pt": "A Coreia do Sul, oficialmente República da Coreia, é um país localizado na península coreana, no leste da Ásia. A nação possui uma história milenar e é conhecida por sua cultura, tecnologia e economia avançadas. A Coreia do Sul é famosa por suas indústrias de tecnologia e entretenimento, incluindo empresas como Samsung e Hyundai. Além disso, o país é famoso por sua culinária, como o kimchi e o bulgogi.",
+        "descricao_en": "South Korea, officially the Republic of Korea, is a country located on the Korean Peninsula in East Asia. The nation has a millennia-old history and is known for its advanced culture, technology, and economy. South Korea is famous for its technology and entertainment industries, including companies like Samsung and Hyundai. Additionally, the country is renowned for its cuisine, such as kimchi and bulgogi."
+    },
+    "south sudan": {
+        "descricao_pt": "O Sudão do Sul é o país mais jovem do mundo, tendo conquistado sua independência do Sudão em 2011. Localizado na região da África Oriental, o Sudão do Sul enfrentou conflitos e desafios desde a sua formação. No entanto, o país abriga diversas culturas e etnias, e sua população é conhecida por sua resiliência. A nação possui recursos naturais significativos, incluindo petróleo.",
+        "descricao_en": "South Sudan is the world's youngest country, having gained independence from Sudan in 2011. Located in the East African region, South Sudan has faced conflicts and challenges since its formation. However, the country is home to diverse cultures and ethnicities, and its population is known for its resilience. The nation possesses significant natural resources, including oil."
+    },
+    "spain": {
+        "descricao_pt": "A Espanha, oficialmente Reino de Espanha, é um país localizado no sudoeste da Europa, na Península Ibérica. Com uma rica história que inclui a época dos impérios romano e mourisco, a Espanha é conhecida por sua cultura diversificada, com danças flamencas, festivais coloridos e pratos tradicionais, como a paella. Atualmente, a Espanha é uma democracia parlamentar e um destino turístico popular.",
+        "descricao_en": "Spain, officially the Kingdom of Spain, is a country located in southwestern Europe on the Iberian Peninsula. With a rich history that includes the eras of the Roman and Moorish empires, Spain is known for its diverse culture, featuring flamenco dances, colorful festivals, and traditional dishes like paella. Today, Spain is a parliamentary democracy and a popular tourist destination."
+    },
+    "sri lanka": {
+        "descricao_pt": "O Sri Lanka, oficialmente República Democrática Socialista do Sri Lanka, é uma ilha localizada no Oceano Índico, ao sul da Índia. O país possui uma história antiga e é conhecido por suas belezas naturais, como praias paradisíacas e montanhas exuberantes. O Sri Lanka também é famoso por seu chá Ceylon e locais históricos, como Anuradhapura e Polonnaruwa.",
+        "descricao_en": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island located in the Indian Ocean, south of India. The country has an ancient history and is known for its natural beauty, including idyllic beaches and lush mountains. Sri Lanka is also famous for its Ceylon tea and historical sites such as Anuradhapura and Polonnaruwa."
+    },
+    "sudan": {
+        "descricao_pt": "O Sudão, oficialmente República do Sudão, é um país localizado no nordeste da África. A nação tem uma história rica que remonta aos tempos dos faraós e é atravessada pelo Rio Nilo, que desempenhou um papel vital na sua civilização. Atualmente, o Sudão é conhecido por sua diversidade étnica e cultural, mas também enfrentou conflitos e desafios políticos em sua história recente.",
+        "descricao_en": "Sudan, officially the Republic of Sudan, is a country located in northeastern Africa. The nation has a rich history dating back to the time of the pharaohs and is traversed by the Nile River, which played a vital role in its civilization. Today, Sudan is known for its ethnic and cultural diversity but has also faced political conflicts and challenges in its recent history."
+    },
+    "suriname": {
+        "descricao_pt": "Suriname, oficialmente República do Suriname, é um país localizado na costa norte da América do Sul. A nação tem uma história marcada pela colonização holandesa e pelo comércio de açúcar e escravos. Atualmente, o Suriname é conhecido por sua diversidade étnica, com influências culturais da Ásia, África e Europa. A exuberante floresta tropical amazônica cobre grande parte do país.",
+        "descricao_en": "Suriname, officially the Republic of Suriname, is a country located on the northern coast of South America. The nation has a history marked by Dutch colonization and the sugar and slave trade. Today, Suriname is known for its ethnic diversity, with cultural influences from Asia, Africa, and Europe. The lush Amazon rainforest covers a significant portion of the country."
+    },
+    "sweden": {
+        "descricao_pt": "A Suécia, oficialmente Reino da Suécia, é um país localizado no norte da Europa, na península escandinava. Com uma história que inclui os vikings, a Suécia é conhecida por seu sistema de bem-estar social, alta qualidade de vida e belas paisagens naturais, incluindo lagos e florestas. Atualmente, a nação é famosa por sua inovação tecnológica e design moderno.",
+        "descricao_en": "Sweden, officially the Kingdom of Sweden, is a country located in northern Europe on the Scandinavian Peninsula. With a history that includes the Vikings, Sweden is known for its social welfare system, high quality of life, and beautiful natural landscapes, including lakes and forests. Today, the nation is famous for technological innovation and modern design."
+    },
+    "switzerland": {
+        "descricao_pt": "A Suíça, oficialmente Confederação Suíça, é um país localizado na Europa Central. A nação é famosa por sua neutralidade política, sistema bancário sólido e paisagens alpinas deslumbrantes. A Suíça é conhecida por sua precisão na relojoaria, chocolates de alta qualidade e uma política de neutralidade em conflitos internacionais. O país abriga várias línguas, incluindo o alemão, francês, italiano e romanche.",
+        "descricao_en": "Switzerland, officially the Swiss Confederation, is a country located in Central Europe. The nation is famous for its political neutrality, robust banking system, and stunning alpine landscapes. Switzerland is known for its precision in watchmaking, high-quality chocolates, and a policy of neutrality in international conflicts. The country is home to multiple languages, including German, French, Italian, and Romansh."
+    },
+    "syria": {
+        "descricao_pt": "A Síria é um país localizado no Oriente Médio e tem uma história antiga que remonta às civilizações antigas, incluindo os impérios assírio e romano. No entanto, o país enfrentou conflitos e instabilidade nas últimas décadas. A Síria é conhecida por sua arquitetura histórica, como as cidades de Damasco e Aleppo, bem como pela sua culinária, que inclui pratos como o falafel e o kebab.",
+        "descricao_en": "Syria is a country located in the Middle East and has an ancient history dating back to ancient civilizations, including the Assyrian and Roman empires. However, the country has faced conflicts and instability in recent decades. Syria is known for its historic architecture, such as the cities of Damascus and Aleppo, as well as its cuisine, which includes dishes like falafel and kebabs."
+    },
+    "tajikistan": {
+        "descricao_pt": "O Tajiquistão é um país montanhoso localizado na Ásia Central. Possui uma história rica de influências culturais persas e soviéticas. A nação é conhecida por suas montanhas majestosas, como as Montanhas Pamir, e seu tapete persa tradicional. O Tajiquistão é um país de língua tajique e abriga uma cultura única enraizada nas tradições locais.",
+        "descricao_en": "Tajikistan is a mountainous country located in Central Asia. It has a rich history of Persian and Soviet cultural influences. The nation is known for its majestic mountains, such as the Pamir Mountains, and its traditional Persian carpets. Tajikistan is a Tajik-speaking country and harbors a unique culture rooted in local traditions."
+    },
+    "tanzania": {
+        "descricao_pt": "A Tanzânia é um país localizado na região da África Oriental e é conhecida por sua diversidade geográfica, que inclui montanhas, savanas e lindas praias à beira do Oceano Índico. A nação tem uma rica herança cultural, com diversas etnias e línguas. A Tanzânia é famosa por seus parques nacionais, incluindo o Serengeti, onde se pode observar a migração anual de gnus e zebras.",
+        "descricao_en": "Tanzania is a country located in the East African region and is known for its geographical diversity, including mountains, savannahs, and beautiful beaches along the Indian Ocean. The nation has a rich cultural heritage, with diverse ethnicities and languages. Tanzania is famous for its national parks, including the Serengeti, where one can witness the annual migration of wildebeests and zebras."
+    },
+    "thailand": {
+        "descricao_pt": "A Tailândia, oficialmente Reino da Tailândia, é um país localizado no sudeste da Ásia. A nação tem uma história rica de reinos e impérios, com uma cultura marcada pela religião budista. A Tailândia é conhecida por sua culinária picante e sabores exóticos, suas praias deslumbrantes e templos budistas impressionantes, como o Wat Pho. O turismo desempenha um papel importante na economia tailandesa.",
+        "descricao_en": "Thailand, officially the Kingdom of Thailand, is a country located in Southeast Asia. The nation has a rich history of kingdoms and empires, with a culture marked by Buddhism. Thailand is known for its spicy cuisine and exotic flavors, stunning beaches, and impressive Buddhist temples, such as Wat Pho. Tourism plays a significant role in the Thai economy."
+    },
+    "timor-leste": {
+        "descricao_pt": "Timor-Leste, também conhecido como Timor Oriental, é um pequeno país localizado no sudeste asiático. Possui uma história de luta pela independência e conquistou sua soberania em 2002. Timor-Leste é conhecido por sua cultura diversificada e línguas, incluindo o tétum e o português. A nação possui paisagens naturais deslumbrantes e uma rica herança cultural.",
+        "descricao_en": "Timor-Leste, also known as East Timor, is a small country located in Southeast Asia. It has a history of struggle for independence and gained sovereignty in 2002. Timor-Leste is known for its diverse culture and languages, incluiding tetum and portuguese. The nation has beautiful natural landmarks and a rich cultural heritage."
+    },
+    "togo": {
+        "descricao_pt": "Togo, oficialmente República Togolesa, é um país da África Ocidental. Sua história é marcada pela colonização alemã e francesa, e posteriormente, pela independência em 1960. Togo está localizado na costa do Golfo da Guiné e faz fronteira com Gana, Benin e Burkina Faso. Atualmente, o país enfrenta desafios econômicos e políticos, mas sua cultura diversificada e paisagens naturais atraem visitantes de todo o mundo.",
+        "descricao_en": "Togo, officially the Togolese Republic, is a country in West Africa. Its history is marked by German and French colonization, and later, independence in 1960. Togo is located on the Gulf of Guinea coast and shares borders with Ghana, Benin, and Burkina Faso. Currently, the country faces economic and political challenges, but its diverse culture and natural landscapes attract visitors from around the world."
+    },
+    "tonga": {
+        "descricao_pt": "Tonga, oficialmente Reino de Tonga, é uma nação insular no Pacífico Sul. Sua história inclui uma longa tradição de governantes hereditários. Localizada no Oceano Pacífico, Tonga é composta por várias ilhas e atóis. Hoje, o país é uma monarquia constitucional e é conhecido por suas praias deslumbrantes e cultura polinésia rica.",
+        "descricao_en": "Tonga, officially the Kingdom of Tonga, is an island nation in the South Pacific. Its history includes a long tradition of hereditary rulers. Located in the Pacific Ocean, Tonga consists of several islands and atolls. Today, the country is a constitutional monarchy and is known for its stunning beaches and rich Polynesian culture."
+    },
+    "trinidad and tobago": {
+        "descricao_pt": "Trinidad e Tobago é uma nação insular no Mar do Caribe, conhecida por sua diversidade étnica e cultural. Sua história inclui colonização espanhola, britânica e francesa. O país é formado pelas ilhas de Trinidad e Tobago, localizadas ao largo da costa da Venezuela. Atualmente, é uma república independente e tem uma economia diversificada com uma indústria de energia significativa.",
+        "descricao_en": "Trinidad and Tobago is an island nation in the Caribbean Sea, known for its ethnic and cultural diversity. Its history includes Spanish, British, and French colonization. The country is made up of the islands of Trinidad and Tobago, located off the coast of Venezuela. It is currently an independent republic and has a diversified economy with a significant energy industry."
+    },
+    "tunisia": {
+        "descricao_pt": "Tunísia, oficialmente República Tunisina, é um país do norte da África com uma história rica que inclui a influência de várias civilizações antigas, como fenícios, romanos e árabes. O país está localizado no litoral do Mar Mediterrâneo e faz fronteira com a Argélia e a Líbia. Atualmente, a Tunísia é uma república e é conhecida por suas praias, sítios arqueológicos e cultura única.",
+        "descricao_en": "Tunisia, officially the Tunisian Republic, is a North African country with a rich history that includes the influence of various ancient civilizations such as Phoenicians, Romans, and Arabs. The country is located on the coast of the Mediterranean Sea and shares borders with Algeria and Libya. Currently, Tunisia is a republic and is known for its beaches, archaeological sites, and unique culture."
+    },
+    "turkey": {
+        "descricao_pt": "Turquia, oficialmente República da Turquia, é um país transcontinental que se estende por parte da Europa e da Ásia. Sua história inclui o Império Otomano e a formação da República Turca. A Turquia faz fronteira com oito países e é cercada por três mares. Atualmente, é uma república democrática e secular, conhecida por sua rica herança histórica e cultura única.",
+        "descricao_en": "Turkey, officially the Republic of Turkey, is a transcontinental country that spans both Europe and Asia. Its history includes the Ottoman Empire and the formation of the Turkish Republic. Turkey shares borders with eight countries and is surrounded by three seas. It is currently a democratic and secular republic, known for its rich historical heritage and unique culture."
+    },
+    "turkmenistan": {
+        "descricao_pt": "Turcomenistão, oficialmente República do Turcomenistão, é um país da Ásia Central com uma história que remonta a impérios antigos, como o Império Parta. O país é conhecido por seu deserto de areia de Karakum e seu grande gás natural. Atualmente, é uma república presidencialista e está empenhado em desenvolver sua economia e infraestrutura.",
+        "descricao_en": "Turkmenistan, officially the Republic of Turkmenistan, is a Central Asian country with a history dating back to ancient empires such as the Parthian Empire. The country is known for its Karakum Desert and abundant natural gas. It is currently a presidential republic and is committed to developing its economy and infrastructure."
+    },
+    "tuvalu": {
+        "descricao_pt": "Tuvalu é uma nação insular na região do Pacífico. Sua história inclui o domínio colonial britânico e sua independência em 1978. Tuvalu é composta por nove pequenas ilhas e atóis. Atualmente, o país enfrenta desafios devido ao aumento do nível do mar, mas sua cultura única e beleza natural atraem atenção global.",
+        "descricao_en": "Tuvalu is an island nation in the Pacific region. Its history includes British colonial rule and its independence in 1978. Tuvalu consists of nine small islands and atolls. Currently, the country faces challenges due to rising sea levels, but its unique culture and natural beauty attract global attention."
+    },
+    "uganda": {
+        "descricao_pt": "Uganda é uma nação da África Oriental com uma história que inclui o domínio colonial britânico e a independência em 1962. O país é conhecido por sua biodiversidade e vida selvagem, incluindo os gorilas das montanhas. Uganda faz fronteira com vários países e é atravessada pelo Rio Nilo. Atualmente, é uma república e busca o desenvolvimento econômico e social.",
+        "descricao_en": "Uganda is a country in East Africa with a history that includes British colonial rule and independence in 1962. The country is known for its biodiversity and wildlife, including mountain gorillas. Uganda shares borders with several countries and is traversed by the Nile River. Currently, it is a republic and seeks economic and social development."
+    },
+    "ukraine": {
+        "descricao_pt": "Ucrânia, oficialmente Ucrânia, é um país no leste da Europa com uma história rica e complexa, incluindo períodos de dominação estrangeira e independência. A Ucrânia faz fronteira com vários países, incluindo Rússia e Polônia. Atualmente, o país é uma república e enfrenta desafios políticos e econômicos, mas também é conhecido por sua herança cultural e arquitetura impressionante.",
+        "descricao_en": "Ukraine, officially Ukraine, is a country in Eastern Europe with a rich and complex history, including periods of foreign domination and independence. Ukraine shares borders with several countries, including Russia and Poland. Currently, the country is a republic and faces political and economic challenges, but is also known for its cultural heritage and impressive architecture."
+    },
+    "united arab emirates": {
+        "descricao_pt": "Emirados Árabes Unidos, oficialmente Estados Unidos dos Emirados Árabes, é uma nação localizada no Golfo Pérsico. Sua história inclui a formação dos sete emirados e sua unificação em 1971. Os Emirados Árabes Unidos são conhecidos por sua riqueza, desenvolvimento moderno e cultura islâmica. Atualmente, é uma federação de emirados e um importante centro econômico na região.",
+        "descricao_en": "United Arab Emirates, officially the United Arab Emirates, is a nation located in the Persian Gulf. Its history includes the formation of the seven emirates and their unification in 1971. The United Arab Emirates are known for their wealth, modern development, and Islamic culture. Currently, it is a federation of emirates and a major economic center in the region."
+    },
+    "united kingdom": {
+        "descricao_pt": "O Reino Unido, oficialmente conhecido como Reino Unido da Grã-Bretanha e Irlanda do Norte, é uma nação insular localizada na Europa Ocidental. Sua história é marcada por um passado de império colonial, que abrangeu uma parte significativa do mundo. Hoje, o Reino Unido é uma monarquia constitucional composta por quatro nações constituintes: Inglaterra, Escócia, País de Gales e Irlanda do Norte. É conhecido por sua rica herança cultural, incluindo literatura, música e tradições históricas.",
+        "descricao_en": "The United Kingdom, officially known as the United Kingdom of Great Britain and Northern Ireland, is an island nation located in Western Europe. Its history is marked by a colonial empire that spanned a significant portion of the world. Today, the UK is a constitutional monarchy comprising four constituent nations: England, Scotland, Wales, and Northern Ireland. It is known for its rich cultural heritage, including literature, music, and historical traditions."
+    },
+    "united states": {
+        "descricao_pt": "Os Estados Unidos, oficialmente conhecidos como Estados Unidos da América, são uma nação situada na América do Norte. Sua história é marcada pela independência do domínio britânico em 1776 e pela expansão para o oeste, conhecida como a Marcha para o Oeste. Atualmente, os Estados Unidos são uma república federal composta por 50 estados e um distrito federal. É uma das maiores economias do mundo e um líder global em tecnologia, cultura e inovação.",
+        "descricao_en": "The United States, officially known as the United States of America, is a nation located in North America. Its history is marked by the independence from British rule in 1776 and westward expansion, known as the Westward Expansion. Today, the United States is a federal republic comprising 50 states and a federal district. It is one of the world's largest economies and a global leader in technology, culture, and innovation."
+    },
+    "uruguay": {
+        "descricao_pt": "O Uruguai, oficialmente a República Oriental do Uruguai, é um país situado na América do Sul. Sua história é marcada por lutas pela independência do domínio espanhol e português. Atualmente, o Uruguai é uma república democrática com uma economia diversificada e é conhecido por suas belas praias e tradições culturais, incluindo o tango e o carnaval de Montevidéu.",
+        "descricao_en": "Uruguay, officially the Oriental Republic of Uruguay, is a country located in South America. Its history is marked by struggles for independence from Spanish and Portuguese rule. Today, Uruguay is a democratic republic with a diversified economy and is known for its beautiful beaches and cultural traditions, including tango and the Montevideo carnival."
+    },
+    "uzbekistan": {
+        "descricao_pt": "Uzbequistão, oficialmente a República do Uzbequistão, é um país da Ásia Central. Sua história é rica em antigas civilizações, incluindo a Rota da Seda. Atualmente, o Uzbequistão é uma república com uma economia em desenvolvimento e é conhecido por sua arquitetura islâmica, incluindo a cidade antiga de Samarcanda, e sua tradição de tapetes e artesanato.",
+        "descricao_en": "Uzbekistan, officially the Republic of Uzbekistan, is a country in Central Asia. Its history is rich in ancient civilizations, including the Silk Road. Today, Uzbekistan is a republic with a developing economy and is known for its Islamic architecture, including the ancient city of Samarkand, and its tradition of carpets and crafts."
+    },
+    "vanuatu": {
+        "descricao_pt": "Vanuatu, oficialmente a República de Vanuatu, é uma nação insular situada no Oceano Pacífico. Sua história é marcada por uma mistura de culturas e influências coloniais. Atualmente, Vanuatu é uma república democrática e é conhecida por sua beleza natural, praias de areia branca e cultura única, incluindo cerimônias tradicionais e danças.",
+        "descricao_en": "Vanuatu, officially the Republic of Vanuatu, is an island nation located in the Pacific Ocean. Its history is marked by a blend of cultures and colonial influences. Today, Vanuatu is a democratic republic and is known for its natural beauty, white sandy beaches, and unique culture, including traditional ceremonies and dances."
+    },
+    "venezuela": {
+        "descricao_pt": "A Venezuela, oficialmente a República Bolivariana da Venezuela, é um país localizado na América do Sul. Sua história inclui a independência liderada por Simón Bolívar e um passado de riqueza petrolífera. Atualmente, a Venezuela enfrenta desafios econômicos e políticos, mas é conhecida por suas paisagens naturais impressionantes, incluindo o Salto Angel, a cachoeira mais alta do mundo.",
+        "descricao_en": "Venezuela, officially the Bolivarian Republic of Venezuela, is a country located in South America. Its history includes independence led by Simón Bolívar and a history of oil wealth. Today, Venezuela faces economic and political challenges but is known for its stunning natural landscapes, including Angel Falls, the world's tallest waterfall."
+    },
+    "vietnam": {
+        "descricao_pt": "O Vietnã, oficialmente a República Socialista do Vietnã, é um país no sudeste asiático. Sua história é marcada por conflitos, incluindo a Guerra do Vietnã. Atualmente, o Vietnã é uma república socialista em rápido crescimento e é conhecido por sua culinária única, belas paisagens, como a Baía de Halong, e sua história cultural rica.",
+        "descricao_en": "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. Its history is marked by conflicts, including the Vietnam War. Today, Vietnam is a rapidly growing socialist republic and is known for its unique cuisine, beautiful landscapes like Halong Bay, and rich cultural history."
+    },
+    "yemen": {
+        "descricao_pt": "O Iêmen, oficialmente a República do Iêmen, é um país localizado na ponta sul da Península Arábica. Sua história é rica em civilizações antigas, incluindo os sabeus e os nabateus. Atualmente, o Iêmen enfrenta conflitos e desafios humanitários, mas é conhecido por sua herança cultural, incluindo a antiga cidade de Sanaa e a arquitetura de arranha-céus de barro.",
+        "descricao_en": "Yemen, officially the Republic of Yemen, is a country located at the southern tip of the Arabian Peninsula. Its history is rich in ancient civilizations, including the Sabeans and Nabateans. Today, Yemen faces conflicts and humanitarian challenges but is known for its cultural heritage, including the ancient city of Sanaa and skyscraper-like clay architecture."
+    },
+    "zambia": {
+        "descricao_pt": "A Zâmbia, oficialmente a República da Zâmbia, é um país localizado no sul da África. Sua história é marcada pela independência do domínio colonial britânico. Atualmente, a Zâmbia é uma república democrática em crescimento e é conhecida por suas paisagens naturais, incluindo as Cataratas Vitória, e uma diversidade étnica rica com várias línguas e culturas.",
+        "descricao_en": "Zambia, officially the Republic of Zambia, is a country located in Southern Africa. Its history is marked by independence from British colonial rule. Today, Zambia is a growing democratic republic and is known for its natural landscapes, including Victoria Falls, and a rich ethnic diversity with multiple languages and cultures."
+    },
+    "zimbabwe": {
+        "descricao_pt": "O Zimbábue, oficialmente a República do Zimbábue, é um país situado no sul da África. Sua história é marcada por civilizações antigas, como o Reino de Mutapa, e pela luta pela independência do domínio colonial britânico. Atualmente, o Zimbábue enfrenta desafios econômicos, mas é conhecido por suas paisagens naturais, como as Montanhas Inyanga, e sua rica herança cultural.",
+        "descricao_en": "Zimbabwe, officially the Republic of Zimbabwe, is a country located in Southern Africa. Its history is marked by ancient civilizations, such as the Kingdom of Mutapa, and the struggle for independence from British colonial rule. Today, Zimbabwe faces economic challenges but is known for its natural landscapes, like the Inyanga Mountains, and its rich cultural heritage."
+    }
+}

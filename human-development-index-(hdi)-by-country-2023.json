@@ -1,0 +1,2342 @@
+[
+  {
+    "country": "Switzerland",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.962,
+    "Hdi2020": 0.956,
+    "Hdi2019": 0.962,
+    "Hdi2010": 0.942,
+    "Hdi2000": 0.887,
+    "HdiGrowth1990to2021": 0.4
+  },
+  {
+    "country": "Norway",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.961,
+    "Hdi2020": 0.959,
+    "Hdi2019": 0.961,
+    "Hdi2010": 0.941,
+    "Hdi2000": 0.913,
+    "HdiGrowth1990to2021": 0.44
+  },
+  {
+    "country": "Iceland",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.959,
+    "Hdi2020": 0.957,
+    "Hdi2019": 0.96,
+    "Hdi2010": 0.902,
+    "Hdi2000": 0.871,
+    "HdiGrowth1990to2021": 0.54
+  },
+  {
+    "country": "Hong Kong",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.952,
+    "Hdi2020": 0.949,
+    "Hdi2019": 0.952,
+    "Hdi2010": 0.907,
+    "Hdi2000": 0.851,
+    "HdiGrowth1990to2021": 0.61
+  },
+  {
+    "country": "Australia",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.951,
+    "Hdi2020": 0.947,
+    "Hdi2019": 0.941,
+    "Hdi2010": 0.923,
+    "Hdi2000": 0.896,
+    "HdiGrowth1990to2021": 0.31
+  },
+  {
+    "country": "Denmark",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.948,
+    "Hdi2020": 0.947,
+    "Hdi2019": 0.946,
+    "Hdi2010": 0.913,
+    "Hdi2000": 0.889,
+    "HdiGrowth1990to2021": 0.41
+  },
+  {
+    "country": "Sweden",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.947,
+    "Hdi2020": 0.942,
+    "Hdi2019": 0.947,
+    "Hdi2010": 0.91,
+    "Hdi2000": 0.904,
+    "HdiGrowth1990to2021": 0.51
+  },
+  {
+    "country": "Ireland",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.945,
+    "Hdi2020": 0.943,
+    "Hdi2019": 0.942,
+    "Hdi2010": 0.904,
+    "Hdi2000": 0.847,
+    "HdiGrowth1990to2021": 0.81
+  },
+  {
+    "country": "Germany",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.942,
+    "Hdi2020": 0.944,
+    "Hdi2019": 0.948,
+    "Hdi2010": 0.926,
+    "Hdi2000": 0.889,
+    "HdiGrowth1990to2021": 0.41
+  },
+  {
+    "country": "Netherlands",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.941,
+    "Hdi2020": 0.939,
+    "Hdi2019": 0.943,
+    "Hdi2010": 0.917,
+    "Hdi2000": 0.893,
+    "HdiGrowth1990to2021": 0.34
+  },
+  {
+    "country": "Finland",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.94,
+    "Hdi2020": 0.938,
+    "Hdi2019": 0.939,
+    "Hdi2010": 0.911,
+    "Hdi2000": 0.891,
+    "HdiGrowth1990to2021": 0.47
+  },
+  {
+    "country": "Singapore",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.939,
+    "Hdi2020": 0.939,
+    "Hdi2019": 0.943,
+    "Hdi2010": 0.91,
+    "Hdi2000": 0.831,
+    "HdiGrowth1990to2021": 0.83
+  },
+  {
+    "country": "Belgium",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.937,
+    "Hdi2020": 0.928,
+    "Hdi2019": 0.936,
+    "Hdi2010": 0.912,
+    "Hdi2000": 0.887,
+    "HdiGrowth1990to2021": 0.45
+  },
+  {
+    "country": "New Zealand",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.937,
+    "Hdi2020": 0.936,
+    "Hdi2019": 0.937,
+    "Hdi2010": 0.922,
+    "Hdi2000": 0.887,
+    "HdiGrowth1990to2021": 0.49
+  },
+  {
+    "country": "Canada",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.936,
+    "Hdi2020": 0.931,
+    "Hdi2019": 0.937,
+    "Hdi2010": 0.911,
+    "Hdi2000": 0.89,
+    "HdiGrowth1990to2021": 0.27
+  },
+  {
+    "country": "Liechtenstein",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.935,
+    "Hdi2020": 0.933,
+    "Hdi2019": 0.94,
+    "Hdi2010": 0.913,
+    "Hdi2000": 0.873,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Luxembourg",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.93,
+    "Hdi2020": 0.924,
+    "Hdi2019": 0.927,
+    "Hdi2010": 0.912,
+    "Hdi2000": 0.864,
+    "HdiGrowth1990to2021": 0.54
+  },
+  {
+    "country": "United Kingdom",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.929,
+    "Hdi2020": 0.924,
+    "Hdi2019": 0.935,
+    "Hdi2010": 0.912,
+    "Hdi2000": 0.862,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Japan",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.925,
+    "Hdi2020": 0.923,
+    "Hdi2019": 0.924,
+    "Hdi2010": 0.898,
+    "Hdi2000": 0.877,
+    "HdiGrowth1990to2021": 0.29
+  },
+  {
+    "country": "South Korea",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.925,
+    "Hdi2020": 0.922,
+    "Hdi2019": 0.923,
+    "Hdi2010": 0.89,
+    "Hdi2000": 0.825,
+    "HdiGrowth1990to2021": 0.74
+  },
+  {
+    "country": "United States",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.921,
+    "Hdi2020": 0.92,
+    "Hdi2019": 0.93,
+    "Hdi2010": 0.911,
+    "Hdi2000": 0.891,
+    "HdiGrowth1990to2021": 0.18
+  },
+  {
+    "country": "Israel",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.919,
+    "Hdi2020": 0.917,
+    "Hdi2019": 0.921,
+    "Hdi2010": 0.894,
+    "Hdi2000": 0.844,
+    "HdiGrowth1990to2021": 0.5
+  },
+  {
+    "country": "Slovenia",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.918,
+    "Hdi2020": 0.913,
+    "Hdi2019": 0.921,
+    "Hdi2010": 0.89,
+    "Hdi2000": 0.821,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Malta",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.918,
+    "Hdi2020": 0.911,
+    "Hdi2019": 0.915,
+    "Hdi2010": 0.861,
+    "Hdi2000": 0.779,
+    "HdiGrowth1990to2021": 0.74
+  },
+  {
+    "country": "Austria",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.916,
+    "Hdi2020": 0.913,
+    "Hdi2019": 0.919,
+    "Hdi2010": 0.902,
+    "Hdi2000": 0.871,
+    "HdiGrowth1990to2021": 0.34
+  },
+  {
+    "country": "United Arab Emirates",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.911,
+    "Hdi2020": 0.912,
+    "Hdi2019": 0.92,
+    "Hdi2010": 0.835,
+    "Hdi2000": 0.796,
+    "HdiGrowth1990to2021": 0.73
+  },
+  {
+    "country": "Spain",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.905,
+    "Hdi2020": 0.899,
+    "Hdi2019": 0.908,
+    "Hdi2010": 0.868,
+    "Hdi2000": 0.825,
+    "HdiGrowth1990to2021": 0.58
+  },
+  {
+    "country": "France",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.903,
+    "Hdi2020": 0.898,
+    "Hdi2019": 0.905,
+    "Hdi2010": 0.877,
+    "Hdi2000": 0.844,
+    "HdiGrowth1990to2021": 0.43
+  },
+  {
+    "country": "Cyprus",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.896,
+    "Hdi2020": 0.894,
+    "Hdi2019": 0.897,
+    "Hdi2010": 0.857,
+    "Hdi2000": 0.797,
+    "HdiGrowth1990to2021": 0.73
+  },
+  {
+    "country": "Italy",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.895,
+    "Hdi2020": 0.889,
+    "Hdi2019": 0.897,
+    "Hdi2010": 0.882,
+    "Hdi2000": 0.841,
+    "HdiGrowth1990to2021": 0.45
+  },
+  {
+    "country": "Estonia",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.89,
+    "Hdi2020": 0.892,
+    "Hdi2019": 0.896,
+    "Hdi2010": 0.861,
+    "Hdi2000": 0.787,
+    "HdiGrowth1990to2021": 0.63
+  },
+  {
+    "country": "Czech Republic",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.889,
+    "Hdi2020": 0.892,
+    "Hdi2019": 0.897,
+    "Hdi2010": 0.87,
+    "Hdi2000": 0.808,
+    "HdiGrowth1990to2021": 0.58
+  },
+  {
+    "country": "Greece",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.887,
+    "Hdi2020": 0.886,
+    "Hdi2019": 0.889,
+    "Hdi2010": 0.869,
+    "Hdi2000": 0.81,
+    "HdiGrowth1990to2021": 0.5
+  },
+  {
+    "country": "Poland",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.876,
+    "Hdi2020": 0.876,
+    "Hdi2019": 0.881,
+    "Hdi2010": 0.841,
+    "Hdi2000": 0.793,
+    "HdiGrowth1990to2021": 0.65
+  },
+  {
+    "country": "Saudi Arabia",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.875,
+    "Hdi2020": 0.87,
+    "Hdi2019": 0.873,
+    "Hdi2010": 0.816,
+    "Hdi2000": 0.737,
+    "HdiGrowth1990to2021": 0.83
+  },
+  {
+    "country": "Lithuania",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.875,
+    "Hdi2020": 0.879,
+    "Hdi2019": 0.884,
+    "Hdi2010": 0.842,
+    "Hdi2000": 0.766,
+    "HdiGrowth1990to2021": 0.57
+  },
+  {
+    "country": "Bahrain",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.875,
+    "Hdi2020": 0.877,
+    "Hdi2019": 0.882,
+    "Hdi2010": 0.808,
+    "Hdi2000": 0.798,
+    "HdiGrowth1990to2021": 0.53
+  },
+  {
+    "country": "Portugal",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.866,
+    "Hdi2020": 0.863,
+    "Hdi2019": 0.867,
+    "Hdi2010": 0.829,
+    "Hdi2000": 0.791,
+    "HdiGrowth1990to2021": 0.68
+  },
+  {
+    "country": "Latvia",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.863,
+    "Hdi2020": 0.871,
+    "Hdi2019": 0.871,
+    "Hdi2010": 0.824,
+    "Hdi2000": 0.756,
+    "HdiGrowth1990to2021": 0.54
+  },
+  {
+    "country": "Croatia",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.858,
+    "Hdi2020": 0.855,
+    "Hdi2019": 0.861,
+    "Hdi2010": 0.821,
+    "Hdi2000": 0.759,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Andorra",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.858,
+    "Hdi2020": 0.848,
+    "Hdi2019": 0.873,
+    "Hdi2010": 0.848,
+    "Hdi2000": 0.818,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Chile",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.855,
+    "Hdi2020": 0.852,
+    "Hdi2019": 0.861,
+    "Hdi2010": 0.813,
+    "Hdi2000": 0.763,
+    "HdiGrowth1990to2021": 0.62
+  },
+  {
+    "country": "Qatar",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.855,
+    "Hdi2020": 0.854,
+    "Hdi2019": 0.859,
+    "Hdi2010": 0.834,
+    "Hdi2000": 0.801,
+    "HdiGrowth1990to2021": 0.39
+  },
+  {
+    "country": "San Marino",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.853,
+    "Hdi2020": 0.845,
+    "Hdi2019": 0.862,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Slovakia",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.848,
+    "Hdi2020": 0.857,
+    "Hdi2019": 0.862,
+    "Hdi2010": 0.84,
+    "Hdi2000": 0.763,
+    "HdiGrowth1990to2021": 0.66
+  },
+  {
+    "country": "Hungary",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.846,
+    "Hdi2020": 0.849,
+    "Hdi2019": 0.853,
+    "Hdi2010": 0.828,
+    "Hdi2000": 0.773,
+    "HdiGrowth1990to2021": 0.52
+  },
+  {
+    "country": "Argentina",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.842,
+    "Hdi2020": 0.84,
+    "Hdi2019": 0.852,
+    "Hdi2010": 0.834,
+    "Hdi2000": 0.779,
+    "HdiGrowth1990to2021": 0.49
+  },
+  {
+    "country": "Turkey",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.838,
+    "Hdi2020": 0.833,
+    "Hdi2019": 0.842,
+    "Hdi2010": 0.749,
+    "Hdi2000": 0.67,
+    "HdiGrowth1990to2021": 1.08
+  },
+  {
+    "country": "Montenegro",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.832,
+    "Hdi2020": 0.826,
+    "Hdi2019": 0.837,
+    "Hdi2010": 0.808,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Kuwait",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.831,
+    "Hdi2020": 0.822,
+    "Hdi2019": 0.839,
+    "Hdi2010": 0.813,
+    "Hdi2000": 0.787,
+    "HdiGrowth1990to2021": 0.47
+  },
+  {
+    "country": "Russia",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.829,
+    "Hdi2020": 0.83,
+    "Hdi2019": 0.845,
+    "Hdi2010": 0.796,
+    "Hdi2000": 0.732,
+    "HdiGrowth1990to2021": 0.24
+  },
+  {
+    "country": "Brunei",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.829,
+    "Hdi2020": 0.83,
+    "Hdi2019": 0.83,
+    "Hdi2010": 0.828,
+    "Hdi2000": 0.808,
+    "HdiGrowth1990to2021": 0.24
+  },
+  {
+    "country": "Romania",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.821,
+    "Hdi2020": 0.824,
+    "Hdi2019": 0.832,
+    "Hdi2010": 0.807,
+    "Hdi2000": 0.715,
+    "HdiGrowth1990to2021": 0.5
+  },
+  {
+    "country": "Oman",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.816,
+    "Hdi2020": 0.827,
+    "Hdi2019": 0.839,
+    "Hdi2010": 0.788,
+    "Hdi2000": 0.705,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Bahamas",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.812,
+    "Hdi2020": 0.815,
+    "Hdi2019": 0.816,
+    "Hdi2010": 0.812,
+    "Hdi2000": 0.799,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Kazakhstan",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.811,
+    "Hdi2020": 0.814,
+    "Hdi2019": 0.819,
+    "Hdi2010": 0.767,
+    "Hdi2000": 0.68,
+    "HdiGrowth1990to2021": 0.6
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.81,
+    "Hdi2020": 0.818,
+    "Hdi2019": 0.821,
+    "Hdi2010": 0.79,
+    "Hdi2000": 0.712,
+    "HdiGrowth1990to2021": 0.66
+  },
+  {
+    "country": "Costa Rica",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.809,
+    "Hdi2020": 0.816,
+    "Hdi2019": 0.819,
+    "Hdi2010": 0.772,
+    "Hdi2000": 0.71,
+    "HdiGrowth1990to2021": 0.66
+  },
+  {
+    "country": "Uruguay",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.809,
+    "Hdi2020": 0.821,
+    "Hdi2019": 0.821,
+    "Hdi2010": 0.787,
+    "Hdi2000": 0.753,
+    "HdiGrowth1990to2021": 0.46
+  },
+  {
+    "country": "Belarus",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.808,
+    "Hdi2020": 0.807,
+    "Hdi2019": 0.817,
+    "Hdi2010": 0.79,
+    "Hdi2000": 0.712,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Panama",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.805,
+    "Hdi2020": 0.801,
+    "Hdi2019": 0.817,
+    "Hdi2010": 0.773,
+    "Hdi2000": 0.721,
+    "HdiGrowth1990to2021": 0.6
+  },
+  {
+    "country": "Malaysia",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.803,
+    "Hdi2020": 0.806,
+    "Hdi2019": 0.81,
+    "Hdi2010": 0.769,
+    "Hdi2000": 0.721,
+    "HdiGrowth1990to2021": 0.73
+  },
+  {
+    "country": "Serbia",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.802,
+    "Hdi2020": 0.804,
+    "Hdi2019": 0.811,
+    "Hdi2010": 0.767,
+    "Hdi2000": 0.69,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Georgia",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.802,
+    "Hdi2020": 0.802,
+    "Hdi2019": 0.81,
+    "Hdi2010": 0.759,
+    "Hdi2000": 0.702,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Mauritius",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.802,
+    "Hdi2020": 0.804,
+    "Hdi2019": 0.817,
+    "Hdi2010": 0.755,
+    "Hdi2000": 0.681,
+    "HdiGrowth1990to2021": 0.8
+  },
+  {
+    "country": "Thailand",
+    "HdiTier": "Very High",
+    "Hdi2021": 0.8,
+    "Hdi2020": 0.802,
+    "Hdi2019": 0.804,
+    "Hdi2010": 0.737,
+    "Hdi2000": 0.653,
+    "HdiGrowth1990to2021": 1.07
+  },
+  {
+    "country": "Albania",
+    "HdiTier": "High",
+    "Hdi2021": 0.796,
+    "Hdi2020": 0.794,
+    "Hdi2019": 0.81,
+    "Hdi2010": 0.754,
+    "Hdi2000": 0.677,
+    "HdiGrowth1990to2021": 0.67
+  },
+  {
+    "country": "Bulgaria",
+    "HdiTier": "High",
+    "Hdi2021": 0.795,
+    "Hdi2020": 0.802,
+    "Hdi2019": 0.81,
+    "Hdi2010": 0.79,
+    "Hdi2000": 0.725,
+    "HdiGrowth1990to2021": 0.49
+  },
+  {
+    "country": "Grenada",
+    "HdiTier": "High",
+    "Hdi2021": 0.795,
+    "Hdi2020": 0.792,
+    "Hdi2019": 0.8,
+    "Hdi2010": 0.782,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Barbados",
+    "HdiTier": "High",
+    "Hdi2021": 0.79,
+    "Hdi2020": 0.788,
+    "Hdi2019": 0.799,
+    "Hdi2010": 0.788,
+    "Hdi2000": 0.756,
+    "HdiGrowth1990to2021": 0.28
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "HdiTier": "High",
+    "Hdi2021": 0.788,
+    "Hdi2020": 0.788,
+    "Hdi2019": 0.8,
+    "Hdi2010": 0.79,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Seychelles",
+    "HdiTier": "High",
+    "Hdi2021": 0.785,
+    "Hdi2020": 0.793,
+    "Hdi2019": 0.802,
+    "Hdi2010": 0.776,
+    "Hdi2000": 0.744,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Sri Lanka",
+    "HdiTier": "High",
+    "Hdi2021": 0.782,
+    "Hdi2020": 0.78,
+    "Hdi2019": 0.778,
+    "Hdi2010": 0.737,
+    "Hdi2000": 0.688,
+    "HdiGrowth1990to2021": 0.67
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "HdiTier": "High",
+    "Hdi2021": 0.78,
+    "Hdi2020": 0.781,
+    "Hdi2019": 0.783,
+    "Hdi2010": 0.725,
+    "Hdi2000": 0.667,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "HdiTier": "High",
+    "Hdi2021": 0.777,
+    "Hdi2020": 0.779,
+    "Hdi2019": 0.783,
+    "Hdi2010": 0.759,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Iran",
+    "HdiTier": "High",
+    "Hdi2021": 0.774,
+    "Hdi2020": 0.777,
+    "Hdi2019": 0.783,
+    "Hdi2010": 0.745,
+    "Hdi2000": 0.685,
+    "HdiGrowth1990to2021": 0.82
+  },
+  {
+    "country": "Ukraine",
+    "HdiTier": "High",
+    "Hdi2021": 0.773,
+    "Hdi2020": 0.775,
+    "Hdi2019": 0.786,
+    "Hdi2010": 0.764,
+    "Hdi2000": 0.7,
+    "HdiGrowth1990to2021": 0.19
+  },
+  {
+    "country": "North Macedonia",
+    "HdiTier": "High",
+    "Hdi2021": 0.77,
+    "Hdi2020": 0.774,
+    "Hdi2019": 0.784,
+    "Hdi2010": 0.738,
+    "Hdi2000": 0.675,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "China",
+    "HdiTier": "High",
+    "Hdi2021": 0.768,
+    "Hdi2020": 0.764,
+    "Hdi2019": 0.762,
+    "Hdi2010": 0.691,
+    "Hdi2000": 0.584,
+    "HdiGrowth1990to2021": 1.5
+  },
+  {
+    "country": "Dominican Republic",
+    "HdiTier": "High",
+    "Hdi2021": 0.767,
+    "Hdi2020": 0.764,
+    "Hdi2019": 0.771,
+    "Hdi2010": 0.708,
+    "Hdi2000": 0.646,
+    "HdiGrowth1990to2021": 0.92
+  },
+  {
+    "country": "Moldova",
+    "HdiTier": "High",
+    "Hdi2021": 0.767,
+    "Hdi2020": 0.766,
+    "Hdi2019": 0.774,
+    "Hdi2010": 0.73,
+    "Hdi2000": 0.641,
+    "HdiGrowth1990to2021": 0.52
+  },
+  {
+    "country": "Palau",
+    "HdiTier": "High",
+    "Hdi2021": 0.767,
+    "Hdi2020": 0.773,
+    "Hdi2019": 0.776,
+    "Hdi2010": 0.773,
+    "Hdi2000": 0.739,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Cuba",
+    "HdiTier": "High",
+    "Hdi2021": 0.764,
+    "Hdi2020": 0.781,
+    "Hdi2019": 0.788,
+    "Hdi2010": 0.78,
+    "Hdi2000": 0.693,
+    "HdiGrowth1990to2021": 0.38
+  },
+  {
+    "country": "Peru",
+    "HdiTier": "High",
+    "Hdi2021": 0.762,
+    "Hdi2020": 0.762,
+    "Hdi2019": 0.78,
+    "Hdi2010": 0.725,
+    "Hdi2000": 0.676,
+    "HdiGrowth1990to2021": 0.66
+  },
+  {
+    "country": "Armenia",
+    "HdiTier": "High",
+    "Hdi2021": 0.759,
+    "Hdi2020": 0.757,
+    "Hdi2019": 0.778,
+    "Hdi2010": 0.746,
+    "Hdi2000": 0.662,
+    "HdiGrowth1990to2021": 0.47
+  },
+  {
+    "country": "Mexico",
+    "HdiTier": "High",
+    "Hdi2021": 0.758,
+    "Hdi2020": 0.756,
+    "Hdi2019": 0.779,
+    "Hdi2010": 0.746,
+    "Hdi2000": 0.709,
+    "HdiGrowth1990to2021": 0.44
+  },
+  {
+    "country": "Brazil",
+    "HdiTier": "High",
+    "Hdi2021": 0.754,
+    "Hdi2020": 0.758,
+    "Hdi2019": 0.766,
+    "Hdi2010": 0.723,
+    "Hdi2000": 0.679,
+    "HdiGrowth1990to2021": 0.69
+  },
+  {
+    "country": "Colombia",
+    "HdiTier": "High",
+    "Hdi2021": 0.752,
+    "Hdi2020": 0.756,
+    "Hdi2019": 0.768,
+    "Hdi2010": 0.726,
+    "Hdi2000": 0.666,
+    "HdiGrowth1990to2021": 0.68
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "HdiTier": null,
+    "Hdi2021": 0.751,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Maldives",
+    "HdiTier": "High",
+    "Hdi2021": 0.747,
+    "Hdi2020": 0.734,
+    "Hdi2019": 0.755,
+    "Hdi2010": 0.688,
+    "Hdi2000": 0.628,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Algeria",
+    "HdiTier": "High",
+    "Hdi2021": 0.745,
+    "Hdi2020": 0.736,
+    "Hdi2019": 0.748,
+    "Hdi2010": 0.721,
+    "Hdi2000": 0.649,
+    "HdiGrowth1990to2021": 0.75
+  },
+  {
+    "country": "Azerbaijan",
+    "HdiTier": "High",
+    "Hdi2021": 0.745,
+    "Hdi2020": 0.73,
+    "Hdi2019": 0.761,
+    "Hdi2010": 0.727,
+    "Hdi2000": 0.622,
+    "HdiGrowth1990to2021": 0.75
+  },
+  {
+    "country": "Turkmenistan",
+    "HdiTier": "High",
+    "Hdi2021": 0.745,
+    "Hdi2020": 0.741,
+    "Hdi2019": 0.742,
+    "Hdi2010": 0.711,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Tonga",
+    "HdiTier": "High",
+    "Hdi2021": 0.745,
+    "Hdi2020": 0.745,
+    "Hdi2019": 0.744,
+    "Hdi2010": 0.713,
+    "Hdi2000": 0.685,
+    "HdiGrowth1990to2021": 0.47
+  },
+  {
+    "country": "Ecuador",
+    "HdiTier": "High",
+    "Hdi2021": 0.74,
+    "Hdi2020": 0.731,
+    "Hdi2019": 0.76,
+    "Hdi2010": 0.736,
+    "Hdi2000": 0.687,
+    "HdiGrowth1990to2021": 0.41
+  },
+  {
+    "country": "Mongolia",
+    "HdiTier": "High",
+    "Hdi2021": 0.739,
+    "Hdi2020": 0.745,
+    "Hdi2019": 0.746,
+    "Hdi2010": 0.701,
+    "Hdi2000": 0.598,
+    "HdiGrowth1990to2021": 0.79
+  },
+  {
+    "country": "Egypt",
+    "HdiTier": "High",
+    "Hdi2021": 0.731,
+    "Hdi2020": 0.734,
+    "Hdi2019": 0.735,
+    "Hdi2010": 0.675,
+    "Hdi2000": 0.633,
+    "HdiGrowth1990to2021": 0.79
+  },
+  {
+    "country": "Tunisia",
+    "HdiTier": "High",
+    "Hdi2021": 0.731,
+    "Hdi2020": 0.737,
+    "Hdi2019": 0.745,
+    "Hdi2010": 0.72,
+    "Hdi2000": 0.658,
+    "HdiGrowth1990to2021": 0.77
+  },
+  {
+    "country": "Fiji",
+    "HdiTier": "High",
+    "Hdi2021": 0.73,
+    "Hdi2020": 0.737,
+    "Hdi2019": 0.746,
+    "Hdi2010": 0.714,
+    "Hdi2000": 0.681,
+    "HdiGrowth1990to2021": 0.42
+  },
+  {
+    "country": "Suriname",
+    "HdiTier": "High",
+    "Hdi2021": 0.73,
+    "Hdi2020": 0.743,
+    "Hdi2019": 0.755,
+    "Hdi2010": 0.723,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Uzbekistan",
+    "HdiTier": "High",
+    "Hdi2021": 0.727,
+    "Hdi2020": 0.721,
+    "Hdi2019": 0.726,
+    "Hdi2010": 0.673,
+    "Hdi2000": 0.607,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Jordan",
+    "HdiTier": "High",
+    "Hdi2021": 0.72,
+    "Hdi2020": 0.723,
+    "Hdi2019": 0.727,
+    "Hdi2010": 0.725,
+    "Hdi2000": 0.678,
+    "HdiGrowth1990to2021": 0.47
+  },
+  {
+    "country": "Dominica",
+    "HdiTier": "High",
+    "Hdi2021": 0.72,
+    "Hdi2020": 0.722,
+    "Hdi2019": 0.729,
+    "Hdi2010": 0.711,
+    "Hdi2000": 0.695,
+    "HdiGrowth1990to2021": 0.47
+  },
+  {
+    "country": "Libya",
+    "HdiTier": "High",
+    "Hdi2021": 0.718,
+    "Hdi2020": 0.703,
+    "Hdi2019": 0.722,
+    "Hdi2010": 0.739,
+    "Hdi2000": 0.712,
+    "HdiGrowth1990to2021": 0.24
+  },
+  {
+    "country": "Paraguay",
+    "HdiTier": "High",
+    "Hdi2021": 0.717,
+    "Hdi2020": 0.73,
+    "Hdi2019": 0.732,
+    "Hdi2010": 0.685,
+    "Hdi2000": 0.649,
+    "HdiGrowth1990to2021": 0.6
+  },
+  {
+    "country": "Palestine",
+    "HdiTier": "High",
+    "Hdi2021": 0.715,
+    "Hdi2020": 0.716,
+    "Hdi2019": 0.727,
+    "Hdi2010": 0.687,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Saint Lucia",
+    "HdiTier": "High",
+    "Hdi2021": 0.715,
+    "Hdi2020": 0.723,
+    "Hdi2019": 0.735,
+    "Hdi2010": 0.728,
+    "Hdi2000": 0.698,
+    "HdiGrowth1990to2021": 0.11
+  },
+  {
+    "country": "Guyana",
+    "HdiTier": "High",
+    "Hdi2021": 0.714,
+    "Hdi2020": 0.721,
+    "Hdi2019": 0.708,
+    "Hdi2010": 0.656,
+    "Hdi2000": 0.577,
+    "HdiGrowth1990to2021": 1.1
+  },
+  {
+    "country": "South Africa",
+    "HdiTier": "High",
+    "Hdi2021": 0.713,
+    "Hdi2020": 0.727,
+    "Hdi2019": 0.736,
+    "Hdi2010": 0.675,
+    "Hdi2000": 0.633,
+    "HdiGrowth1990to2021": 0.39
+  },
+  {
+    "country": "Jamaica",
+    "HdiTier": "High",
+    "Hdi2021": 0.709,
+    "Hdi2020": 0.713,
+    "Hdi2019": 0.719,
+    "Hdi2010": 0.704,
+    "Hdi2000": 0.664,
+    "HdiGrowth1990to2021": 0.24
+  },
+  {
+    "country": "Samoa",
+    "HdiTier": "High",
+    "Hdi2021": 0.707,
+    "Hdi2020": 0.712,
+    "Hdi2019": 0.715,
+    "Hdi2010": 0.713,
+    "Hdi2000": 0.683,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Lebanon",
+    "HdiTier": "High",
+    "Hdi2021": 0.706,
+    "Hdi2020": 0.726,
+    "Hdi2019": 0.745,
+    "Hdi2010": 0.77,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Gabon",
+    "HdiTier": "High",
+    "Hdi2021": 0.706,
+    "Hdi2020": 0.71,
+    "Hdi2019": 0.709,
+    "Hdi2010": 0.664,
+    "Hdi2000": 0.635,
+    "HdiGrowth1990to2021": 0.47
+  },
+  {
+    "country": "Indonesia",
+    "HdiTier": "High",
+    "Hdi2021": 0.705,
+    "Hdi2020": 0.709,
+    "Hdi2019": 0.716,
+    "Hdi2010": 0.664,
+    "Hdi2000": 0.595,
+    "HdiGrowth1990to2021": 0.95
+  },
+  {
+    "country": "Vietnam",
+    "HdiTier": "High",
+    "Hdi2021": 0.703,
+    "Hdi2020": 0.71,
+    "Hdi2019": 0.703,
+    "Hdi2010": 0.663,
+    "Hdi2000": 0.588,
+    "HdiGrowth1990to2021": 1.22
+  },
+  {
+    "country": "Philippines",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.699,
+    "Hdi2020": 0.71,
+    "Hdi2019": 0.718,
+    "Hdi2010": 0.674,
+    "Hdi2000": 0.633,
+    "HdiGrowth1990to2021": 0.5
+  },
+  {
+    "country": "Botswana",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.693,
+    "Hdi2020": 0.713,
+    "Hdi2019": 0.717,
+    "Hdi2010": 0.66,
+    "Hdi2000": 0.585,
+    "HdiGrowth1990to2021": 0.54
+  },
+  {
+    "country": "Bolivia",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.692,
+    "Hdi2020": 0.694,
+    "Hdi2019": 0.717,
+    "Hdi2010": 0.662,
+    "Hdi2000": 0.632,
+    "HdiGrowth1990to2021": 0.74
+  },
+  {
+    "country": "Kyrgyzstan",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.692,
+    "Hdi2020": 0.689,
+    "Hdi2019": 0.698,
+    "Hdi2010": 0.664,
+    "Hdi2000": 0.621,
+    "HdiGrowth1990to2021": 0.26
+  },
+  {
+    "country": "Venezuela",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.691,
+    "Hdi2020": 0.695,
+    "Hdi2019": 0.721,
+    "Hdi2010": 0.755,
+    "Hdi2000": 0.684,
+    "HdiGrowth1990to2021": 0.15
+  },
+  {
+    "country": "Iraq",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.686,
+    "Hdi2020": 0.679,
+    "Hdi2019": 0.696,
+    "Hdi2010": 0.64,
+    "Hdi2000": 0.589,
+    "HdiGrowth1990to2021": 0.85
+  },
+  {
+    "country": "Tajikistan",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.685,
+    "Hdi2020": 0.664,
+    "Hdi2019": 0.676,
+    "Hdi2010": 0.636,
+    "Hdi2000": 0.56,
+    "HdiGrowth1990to2021": 0.28
+  },
+  {
+    "country": "Morocco",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.683,
+    "Hdi2020": 0.679,
+    "Hdi2019": 0.682,
+    "Hdi2010": 0.603,
+    "Hdi2000": 0.521,
+    "HdiGrowth1990to2021": 1.38
+  },
+  {
+    "country": "Belize",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.683,
+    "Hdi2020": 0.69,
+    "Hdi2019": 0.705,
+    "Hdi2010": 0.707,
+    "Hdi2000": 0.64,
+    "HdiGrowth1990to2021": 0.46
+  },
+  {
+    "country": "El Salvador",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.675,
+    "Hdi2020": 0.672,
+    "Hdi2019": 0.683,
+    "Hdi2010": 0.659,
+    "Hdi2000": 0.617,
+    "HdiGrowth1990to2021": 0.81
+  },
+  {
+    "country": "Nicaragua",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.667,
+    "Hdi2020": 0.654,
+    "Hdi2019": 0.664,
+    "Hdi2010": 0.614,
+    "Hdi2000": 0.566,
+    "HdiGrowth1990to2021": 1
+  },
+  {
+    "country": "Bhutan",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.666,
+    "Hdi2020": 0.668,
+    "Hdi2019": 0.671,
+    "Hdi2010": 0.581,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Cape Verde",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.662,
+    "Hdi2020": 0.662,
+    "Hdi2019": 0.676,
+    "Hdi2010": 0.644,
+    "Hdi2000": 0.569,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Bangladesh",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.661,
+    "Hdi2020": 0.655,
+    "Hdi2019": 0.644,
+    "Hdi2010": 0.553,
+    "Hdi2000": 0.485,
+    "HdiGrowth1990to2021": 1.66
+  },
+  {
+    "country": "Tuvalu",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.641,
+    "Hdi2020": 0.639,
+    "Hdi2019": 0.635,
+    "Hdi2010": 0.616,
+    "Hdi2000": 0.597,
+    "HdiGrowth1990to2021": 0.44
+  },
+  {
+    "country": "Marshall Islands",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.639,
+    "Hdi2020": 0.639,
+    "Hdi2019": 0.64,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "India",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.633,
+    "Hdi2020": 0.642,
+    "Hdi2019": 0.645,
+    "Hdi2010": 0.575,
+    "Hdi2000": 0.491,
+    "HdiGrowth1990to2021": 1.22
+  },
+  {
+    "country": "Ghana",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.632,
+    "Hdi2020": 0.632,
+    "Hdi2019": 0.631,
+    "Hdi2010": 0.574,
+    "Hdi2000": 0.507,
+    "HdiGrowth1990to2021": 1.03
+  },
+  {
+    "country": "Micronesia",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.628,
+    "Hdi2020": 0.629,
+    "Hdi2019": 0.633,
+    "Hdi2010": 0.625,
+    "Hdi2000": 0.572,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Guatemala",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.627,
+    "Hdi2020": 0.635,
+    "Hdi2019": 0.642,
+    "Hdi2010": 0.605,
+    "Hdi2000": 0.55,
+    "HdiGrowth1990to2021": 0.84
+  },
+  {
+    "country": "Kiribati",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.624,
+    "Hdi2020": 0.623,
+    "Hdi2019": 0.63,
+    "Hdi2010": 0.589,
+    "Hdi2000": 0.549,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Honduras",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.621,
+    "Hdi2020": 0.621,
+    "Hdi2019": 0.632,
+    "Hdi2010": 0.597,
+    "Hdi2000": 0.556,
+    "HdiGrowth1990to2021": 0.6
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.618,
+    "Hdi2020": 0.619,
+    "Hdi2019": 0.622,
+    "Hdi2010": 0.554,
+    "Hdi2000": 0.501,
+    "HdiGrowth1990to2021": 0.78
+  },
+  {
+    "country": "Namibia",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.615,
+    "Hdi2020": 0.633,
+    "Hdi2019": 0.639,
+    "Hdi2010": 0.585,
+    "Hdi2000": 0.546,
+    "HdiGrowth1990to2021": 0.19
+  },
+  {
+    "country": "Laos",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.607,
+    "Hdi2020": 0.608,
+    "Hdi2019": 0.61,
+    "Hdi2010": 0.551,
+    "Hdi2000": 0.47,
+    "HdiGrowth1990to2021": 1.31
+  },
+  {
+    "country": "Timor-Leste",
+    "HdiTier": null,
+    "Hdi2021": 0.607,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Vanuatu",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.607,
+    "Hdi2020": 0.608,
+    "Hdi2019": 0.611,
+    "Hdi2010": 0.591,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Nepal",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.602,
+    "Hdi2020": 0.604,
+    "Hdi2019": 0.611,
+    "Hdi2010": 0.543,
+    "Hdi2000": 0.467,
+    "HdiGrowth1990to2021": 1.34
+  },
+  {
+    "country": "Eswatini",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.597,
+    "Hdi2020": 0.61,
+    "Hdi2019": 0.615,
+    "Hdi2010": 0.503,
+    "Hdi2000": 0.471,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Equatorial Guinea",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.596,
+    "Hdi2020": 0.599,
+    "Hdi2019": 0.605,
+    "Hdi2010": 0.579,
+    "Hdi2000": 0.512,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Cambodia",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.593,
+    "Hdi2020": 0.596,
+    "Hdi2019": 0.598,
+    "Hdi2010": 0.54,
+    "Hdi2000": 0.425,
+    "HdiGrowth1990to2021": 1.46
+  },
+  {
+    "country": "Zimbabwe",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.593,
+    "Hdi2020": 0.6,
+    "Hdi2019": 0.601,
+    "Hdi2010": 0.512,
+    "Hdi2000": 0.452,
+    "HdiGrowth1990to2021": 0.49
+  },
+  {
+    "country": "Angola",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.586,
+    "Hdi2020": 0.59,
+    "Hdi2019": 0.595,
+    "Hdi2010": 0.51,
+    "Hdi2000": 0.375,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Myanmar",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.585,
+    "Hdi2020": 0.6,
+    "Hdi2019": 0.598,
+    "Hdi2010": 0.51,
+    "Hdi2000": 0.41,
+    "HdiGrowth1990to2021": 1.83
+  },
+  {
+    "country": "Syria",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.577,
+    "Hdi2020": 0.577,
+    "Hdi2019": 0.584,
+    "Hdi2010": 0.66,
+    "Hdi2000": 0.587,
+    "HdiGrowth1990to2021": 0.09
+  },
+  {
+    "country": "Cameroon",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.576,
+    "Hdi2020": 0.578,
+    "Hdi2019": 0.583,
+    "Hdi2010": 0.513,
+    "Hdi2000": 0.442,
+    "HdiGrowth1990to2021": 0.79
+  },
+  {
+    "country": "Kenya",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.575,
+    "Hdi2020": 0.578,
+    "Hdi2019": 0.581,
+    "Hdi2010": 0.545,
+    "Hdi2000": 0.481,
+    "HdiGrowth1990to2021": 0.63
+  },
+  {
+    "country": "Republic of the Congo",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.571,
+    "Hdi2020": 0.574,
+    "Hdi2019": 0.57,
+    "Hdi2010": 0.561,
+    "Hdi2000": 0.491,
+    "HdiGrowth1990to2021": 0.29
+  },
+  {
+    "country": "Zambia",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.565,
+    "Hdi2020": 0.57,
+    "Hdi2019": 0.575,
+    "Hdi2010": 0.529,
+    "Hdi2000": 0.418,
+    "HdiGrowth1990to2021": 1.02
+  },
+  {
+    "country": "Solomon Islands",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.564,
+    "Hdi2020": 0.565,
+    "Hdi2019": 0.567,
+    "Hdi2010": 0.55,
+    "Hdi2000": 0.486,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Papua New Guinea",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.558,
+    "Hdi2020": 0.56,
+    "Hdi2019": 0.56,
+    "Hdi2010": 0.499,
+    "Hdi2000": 0.447,
+    "HdiGrowth1990to2021": 1.33
+  },
+  {
+    "country": "Comoros",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.558,
+    "Hdi2020": 0.562,
+    "Hdi2019": 0.56,
+    "Hdi2010": 0.52,
+    "Hdi2000": 0.464,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Mauritania",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.556,
+    "Hdi2020": 0.556,
+    "Hdi2019": 0.563,
+    "Hdi2010": 0.51,
+    "Hdi2000": 0.465,
+    "HdiGrowth1990to2021": 1.09
+  },
+  {
+    "country": "Ivory Coast",
+    "HdiTier": "Medium",
+    "Hdi2021": 0.55,
+    "Hdi2020": 0.551,
+    "Hdi2019": 0.55,
+    "Hdi2010": 0.473,
+    "Hdi2000": 0.457,
+    "HdiGrowth1990to2021": 0.82
+  },
+  {
+    "country": "Tanzania",
+    "HdiTier": "Low",
+    "Hdi2021": 0.549,
+    "Hdi2020": 0.548,
+    "Hdi2019": 0.548,
+    "Hdi2010": 0.493,
+    "Hdi2000": 0.398,
+    "HdiGrowth1990to2021": 1.27
+  },
+  {
+    "country": "Pakistan",
+    "HdiTier": "Low",
+    "Hdi2021": 0.544,
+    "Hdi2020": 0.543,
+    "Hdi2019": 0.546,
+    "Hdi2010": 0.505,
+    "Hdi2000": 0.441,
+    "HdiGrowth1990to2021": 1
+  },
+  {
+    "country": "Togo",
+    "HdiTier": "Low",
+    "Hdi2021": 0.539,
+    "Hdi2020": 0.535,
+    "Hdi2019": 0.535,
+    "Hdi2010": 0.477,
+    "Hdi2000": 0.446,
+    "HdiGrowth1990to2021": 0.89
+  },
+  {
+    "country": "Nigeria",
+    "HdiTier": "Low",
+    "Hdi2021": 0.535,
+    "Hdi2020": 0.535,
+    "Hdi2019": 0.538,
+    "Hdi2010": 0.482,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Haiti",
+    "HdiTier": "Low",
+    "Hdi2021": 0.535,
+    "Hdi2020": 0.54,
+    "Hdi2019": 0.543,
+    "Hdi2010": 0.433,
+    "Hdi2000": 0.47,
+    "HdiGrowth1990to2021": 0.71
+  },
+  {
+    "country": "Rwanda",
+    "HdiTier": "Low",
+    "Hdi2021": 0.534,
+    "Hdi2020": 0.532,
+    "Hdi2019": 0.534,
+    "Hdi2010": 0.489,
+    "Hdi2000": 0.34,
+    "HdiGrowth1990to2021": 1.68
+  },
+  {
+    "country": "Uganda",
+    "HdiTier": "Low",
+    "Hdi2021": 0.525,
+    "Hdi2020": 0.524,
+    "Hdi2019": 0.525,
+    "Hdi2010": 0.502,
+    "Hdi2000": 0.394,
+    "HdiGrowth1990to2021": 1.52
+  },
+  {
+    "country": "Benin",
+    "HdiTier": "Low",
+    "Hdi2021": 0.525,
+    "Hdi2020": 0.524,
+    "Hdi2019": 0.53,
+    "Hdi2010": 0.492,
+    "Hdi2000": 0.416,
+    "HdiGrowth1990to2021": 1.23
+  },
+  {
+    "country": "Lesotho",
+    "HdiTier": "Low",
+    "Hdi2021": 0.514,
+    "Hdi2020": 0.521,
+    "Hdi2019": 0.524,
+    "Hdi2010": 0.467,
+    "Hdi2000": 0.452,
+    "HdiGrowth1990to2021": 0.23
+  },
+  {
+    "country": "Malawi",
+    "HdiTier": "Low",
+    "Hdi2021": 0.512,
+    "Hdi2020": 0.516,
+    "Hdi2019": 0.519,
+    "Hdi2010": 0.456,
+    "Hdi2000": 0.374,
+    "HdiGrowth1990to2021": 1.71
+  },
+  {
+    "country": "Senegal",
+    "HdiTier": "Low",
+    "Hdi2021": 0.511,
+    "Hdi2020": 0.513,
+    "Hdi2019": 0.513,
+    "Hdi2010": 0.468,
+    "Hdi2000": 0.388,
+    "HdiGrowth1990to2021": 1.02
+  },
+  {
+    "country": "Djibouti",
+    "HdiTier": "Low",
+    "Hdi2021": 0.509,
+    "Hdi2020": 0.51,
+    "Hdi2019": 0.512,
+    "Hdi2010": 0.458,
+    "Hdi2000": 0.361,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Sudan",
+    "HdiTier": "Low",
+    "Hdi2021": 0.508,
+    "Hdi2020": 0.51,
+    "Hdi2019": 0.514,
+    "Hdi2010": 0.486,
+    "Hdi2000": 0.424,
+    "HdiGrowth1990to2021": 1.34
+  },
+  {
+    "country": "Madagascar",
+    "HdiTier": "Low",
+    "Hdi2021": 0.501,
+    "Hdi2020": 0.501,
+    "Hdi2019": 0.51,
+    "Hdi2010": 0.492,
+    "Hdi2000": 0.443,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Gambia",
+    "HdiTier": "Low",
+    "Hdi2021": 0.5,
+    "Hdi2020": 0.501,
+    "Hdi2019": 0.503,
+    "Hdi2010": 0.46,
+    "Hdi2000": 0.404,
+    "HdiGrowth1990to2021": 1.22
+  },
+  {
+    "country": "Ethiopia",
+    "HdiTier": "Low",
+    "Hdi2021": 0.498,
+    "Hdi2020": 0.498,
+    "Hdi2019": 0.498,
+    "Hdi2010": 0.412,
+    "Hdi2000": 0.287,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Eritrea",
+    "HdiTier": "Low",
+    "Hdi2021": 0.492,
+    "Hdi2020": 0.494,
+    "Hdi2019": 0.495,
+    "Hdi2010": 0.463,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Guinea-Bissau",
+    "HdiTier": null,
+    "Hdi2021": 0.483,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Liberia",
+    "HdiTier": "Low",
+    "Hdi2021": 0.481,
+    "Hdi2020": 0.48,
+    "Hdi2019": 0.484,
+    "Hdi2010": 0.46,
+    "Hdi2000": 0.438,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "DR Congo",
+    "HdiTier": "Low",
+    "Hdi2021": 0.479,
+    "Hdi2020": 0.479,
+    "Hdi2019": 0.482,
+    "Hdi2010": 0.429,
+    "Hdi2000": 0.376,
+    "HdiGrowth1990to2021": 0.7
+  },
+  {
+    "country": "Afghanistan",
+    "HdiTier": "Low",
+    "Hdi2021": 0.478,
+    "Hdi2020": 0.483,
+    "Hdi2019": 0.488,
+    "Hdi2010": 0.448,
+    "Hdi2000": 0.335,
+    "HdiGrowth1990to2021": 1.82
+  },
+  {
+    "country": "Sierra Leone",
+    "HdiTier": "Low",
+    "Hdi2021": 0.477,
+    "Hdi2020": 0.475,
+    "Hdi2019": 0.48,
+    "Hdi2010": 0.427,
+    "Hdi2000": 0.318,
+    "HdiGrowth1990to2021": 1.38
+  },
+  {
+    "country": "Guinea",
+    "HdiTier": "Low",
+    "Hdi2021": 0.465,
+    "Hdi2020": 0.466,
+    "Hdi2019": 0.467,
+    "Hdi2010": 0.415,
+    "Hdi2000": 0.345,
+    "HdiGrowth1990to2021": 1.78
+  },
+  {
+    "country": "Yemen",
+    "HdiTier": "Low",
+    "Hdi2021": 0.455,
+    "Hdi2020": 0.46,
+    "Hdi2019": 0.461,
+    "Hdi2010": 0.51,
+    "Hdi2000": 0.45,
+    "HdiGrowth1990to2021": 0.56
+  },
+  {
+    "country": "Burkina Faso",
+    "HdiTier": "Low",
+    "Hdi2021": 0.449,
+    "Hdi2020": 0.449,
+    "Hdi2019": 0.452,
+    "Hdi2010": 0.372,
+    "Hdi2000": 0.296,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Mozambique",
+    "HdiTier": "Low",
+    "Hdi2021": 0.446,
+    "Hdi2020": 0.453,
+    "Hdi2019": 0.456,
+    "Hdi2010": 0.402,
+    "Hdi2000": 0.303,
+    "HdiGrowth1990to2021": 2.05
+  },
+  {
+    "country": "Mali",
+    "HdiTier": "Low",
+    "Hdi2021": 0.428,
+    "Hdi2020": 0.427,
+    "Hdi2019": 0.433,
+    "Hdi2010": 0.404,
+    "Hdi2000": 0.317,
+    "HdiGrowth1990to2021": 1.92
+  },
+  {
+    "country": "Burundi",
+    "HdiTier": "Low",
+    "Hdi2021": 0.426,
+    "Hdi2020": 0.426,
+    "Hdi2019": 0.431,
+    "Hdi2010": 0.405,
+    "Hdi2000": 0.297,
+    "HdiGrowth1990to2021": 1.25
+  },
+  {
+    "country": "Central African Republic",
+    "HdiTier": "Low",
+    "Hdi2021": 0.404,
+    "Hdi2020": 0.407,
+    "Hdi2019": 0.411,
+    "Hdi2010": 0.372,
+    "Hdi2000": 0.329,
+    "HdiGrowth1990to2021": 0.58
+  },
+  {
+    "country": "Niger",
+    "HdiTier": "Low",
+    "Hdi2021": 0.4,
+    "Hdi2020": 0.401,
+    "Hdi2019": 0.406,
+    "Hdi2010": 0.338,
+    "Hdi2000": 0.262,
+    "HdiGrowth1990to2021": 2.01
+  },
+  {
+    "country": "Chad",
+    "HdiTier": "Low",
+    "Hdi2021": 0.394,
+    "Hdi2020": 0.397,
+    "Hdi2019": 0.403,
+    "Hdi2010": 0.362,
+    "Hdi2000": 0.291,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "South Sudan",
+    "HdiTier": "Low",
+    "Hdi2021": 0.385,
+    "Hdi2020": 0.386,
+    "Hdi2019": 0.393,
+    "Hdi2010": 0.43,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "North Korea",
+    "HdiTier": "not rated",
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Taiwan",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Somalia",
+    "HdiTier": "not rated",
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Puerto Rico",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Reunion",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Macau",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Western Sahara",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Guadeloupe",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Martinique",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Mayotte",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "French Guiana",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "French Polynesia",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "New Caledonia",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Curacao",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Guam",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Jersey",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Aruba",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "United States Virgin Islands",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Isle of Man",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Cayman Islands",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Bermuda",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Guernsey",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Greenland",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Faroe Islands",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Sint Maarten",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "American Samoa",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Monaco",
+    "HdiTier": "not rated",
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Gibraltar",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Saint Martin",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "British Virgin Islands",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Cook Islands",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Anguilla",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Nauru",
+    "HdiTier": "not rated",
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Wallis and Futuna",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Saint Barthelemy",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Montserrat",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Falkland Islands",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Niue",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Tokelau",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  },
+  {
+    "country": "Vatican City",
+    "HdiTier": null,
+    "Hdi2021": null,
+    "Hdi2020": null,
+    "Hdi2019": null,
+    "Hdi2010": null,
+    "Hdi2000": null,
+    "HdiGrowth1990to2021": null
+  }
+]
